@@ -1,0 +1,1490 @@
+
+
+2020-04-18 14:07:11//***********************************************************//
+2020-04-18 14:10:42  D/httpDns ( 2351): download url = https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk
+2020-04-18 14:10:42  D/httpDns ( 2351): DownloadTaskMgr addTask url =  = [https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk] , id = [-666741499]
+2020-04-18 14:10:42  D/httpDns ( 2351): DownloadTaskMgr pending url = [https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk] , id = [-666741499]
+2020-04-18 14:10:42  D/httpDns ( 2351): DownloadTaskMgr started url = [https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk] , id = [-666741499]
+2020-04-18 14:10:55  D/httpDns ( 2351): --> GET https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk http/1.1
+2020-04-18 14:10:55  D/httpDns ( 2351): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-04-18 14:10:55  D/httpDns ( 2351): Cache-Control: no-cache
+2020-04-18 14:10:55  D/httpDns ( 2351): Range: bytes=0-0
+2020-04-18 14:10:55  D/httpDns ( 2351): Host: down.s.qq.com
+2020-04-18 14:10:55  D/httpDns ( 2351): Connection: Keep-Alive
+2020-04-18 14:10:55  D/httpDns ( 2351): --> END GET
+2020-04-18 14:10:55  D/httpDns ( 2351): <-- 302 Found https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk (439ms)
+2020-04-18 14:10:55  D/httpDns ( 2351): Date: Sat, 18 Apr 2020 06:10:55 GMT
+2020-04-18 14:10:55  D/httpDns ( 2351): Content-Type: text/plain; charset=utf-8
+2020-04-18 14:10:55  D/httpDns ( 2351): Content-Length: 137
+2020-04-18 14:10:55  D/httpDns ( 2351): Connection: keep-alive
+2020-04-18 14:10:55  D/httpDns ( 2351): Server: nginx/1.8.1
+2020-04-18 14:10:55  D/httpDns ( 2351): X-Powered-By: Express
+2020-04-18 14:10:55  D/httpDns ( 2351): Location: https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk
+2020-04-18 14:10:55  D/httpDns ( 2351): Vary: Accept
+2020-04-18 14:10:55  D/httpDns ( 2351): Cache-Control: max-age=300
+2020-04-18 14:10:55  D/httpDns ( 2351): Strict-Transport-Security: max-age=31536000; includeSubDomains
+2020-04-18 14:10:55  D/httpDns ( 2351): <-- END HTTP
+2020-04-18 14:10:57  D/httpDns ( 2351): --> GET https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk http/1.1
+2020-04-18 14:10:57  D/httpDns ( 2351): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-04-18 14:10:57  D/httpDns ( 2351): Cache-Control: no-cache
+2020-04-18 14:10:57  D/httpDns ( 2351): Range: bytes=0-0
+2020-04-18 14:10:57  D/httpDns ( 2351): Host: dlied5.myapp.com
+2020-04-18 14:10:57  D/httpDns ( 2351): Connection: Keep-Alive
+2020-04-18 14:10:57  D/httpDns ( 2351): --> END GET
+2020-04-18 14:10:57  D/httpDns ( 2351): <-- 206 Partial Content https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk (142ms)
+2020-04-18 14:10:57  D/httpDns ( 2351): Last-Modified: Mon, 30 Mar 2020 08:27:17 GMT
+2020-04-18 14:10:57  D/httpDns ( 2351): Server: nws_oc_mid
+2020-04-18 14:10:57  D/httpDns ( 2351): Date: Wed, 01 Apr 2020 01:44:10 GMT
+2020-04-18 14:10:57  D/httpDns ( 2351): Cache-Control: max-age=600
+2020-04-18 14:10:57  D/httpDns ( 2351): Expires: Wed, 01 Apr 2020 01:54:10 GMT
+2020-04-18 14:10:57  D/httpDns ( 2351): Content-Type: application/octet-stream
+2020-04-18 14:10:57  D/httpDns ( 2351): Content-Range: bytes 0-0/1983632937
+2020-04-18 14:10:57  D/httpDns ( 2351): Content-Length: 1
+2020-04-18 14:10:57  D/httpDns ( 2351): X-NWS-LOG-UUID: 1847924008166088383
+2020-04-18 14:10:57  D/httpDns ( 2351): X-NWS-UUID-VERIFY: 2f9f8e4abd67c59ab1e8ddd8fa7a88c3
+2020-04-18 14:10:57  D/httpDns ( 2351): Connection: keep-alive
+2020-04-18 14:10:57  D/httpDns ( 2351): X-Cache-Lookup: Cache Hit
+2020-04-18 14:10:57  D/httpDns ( 2351): Content-disposition: attachment; filename=10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk
+2020-04-18 14:10:57  D/httpDns ( 2351): <-- END HTTP
+2020-04-18 14:10:57  D/httpDns ( 2351): --> GET https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk http/1.1
+2020-04-18 14:10:57  D/httpDns ( 2351): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-04-18 14:10:57  D/httpDns ( 2351): Cache-Control: no-cache
+2020-04-18 14:10:57  D/httpDns ( 2351): Range: bytes=0-
+2020-04-18 14:10:57  D/httpDns ( 2351): Host: down.s.qq.com
+2020-04-18 14:10:57  D/httpDns ( 2351): Connection: Keep-Alive
+2020-04-18 14:10:57  D/httpDns ( 2351): --> END GET
+2020-04-18 14:10:57  D/httpDns ( 2351): DownloadTaskMgr connected url = [https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk] , id = [-666741499]
+2020-04-18 14:10:58  D/httpDns ( 2351): <-- 302 Found https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk (1176ms)
+2020-04-18 14:10:58  D/httpDns ( 2351): Date: Sat, 18 Apr 2020 06:10:58 GMT
+2020-04-18 14:10:58  D/httpDns ( 2351): Content-Type: text/plain; charset=utf-8
+2020-04-18 14:10:58  D/httpDns ( 2351): Content-Length: 137
+2020-04-18 14:10:58  D/httpDns ( 2351): Connection: keep-alive
+2020-04-18 14:10:58  D/httpDns ( 2351): Server: nginx/1.8.1
+2020-04-18 14:10:58  D/httpDns ( 2351): X-Powered-By: Express
+2020-04-18 14:10:58  D/httpDns ( 2351): Location: https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk
+2020-04-18 14:10:58  D/httpDns ( 2351): Vary: Accept
+2020-04-18 14:10:58  D/httpDns ( 2351): Cache-Control: max-age=300
+2020-04-18 14:10:58  D/httpDns ( 2351): Strict-Transport-Security: max-age=31536000; includeSubDomains
+2020-04-18 14:10:58  D/httpDns ( 2351): <-- END HTTP
+2020-04-18 14:10:58  D/httpDns ( 2351): --> GET https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk http/1.1
+2020-04-18 14:10:58  D/httpDns ( 2351): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-04-18 14:10:58  D/httpDns ( 2351): Cache-Control: no-cache
+2020-04-18 14:10:58  D/httpDns ( 2351): Range: bytes=0-
+2020-04-18 14:10:58  D/httpDns ( 2351): Host: dlied5.myapp.com
+2020-04-18 14:10:58  D/httpDns ( 2351): Connection: Keep-Alive
+2020-04-18 14:10:58  D/httpDns ( 2351): --> END GET
+2020-04-18 14:10:59  D/httpDns ( 2351): <-- 206 Partial Content https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk (140ms)
+2020-04-18 14:10:59  D/httpDns ( 2351): Last-Modified: Mon, 30 Mar 2020 08:27:17 GMT
+2020-04-18 14:10:59  D/httpDns ( 2351): Server: nws_oc_mid
+2020-04-18 14:10:59  D/httpDns ( 2351): Date: Wed, 01 Apr 2020 01:44:10 GMT
+2020-04-18 14:10:59  D/httpDns ( 2351): Cache-Control: max-age=600
+2020-04-18 14:10:59  D/httpDns ( 2351): Expires: Wed, 01 Apr 2020 01:54:10 GMT
+2020-04-18 14:10:59  D/httpDns ( 2351): Content-Type: application/octet-stream
+2020-04-18 14:10:59  D/httpDns ( 2351): Content-Range: bytes 0-1983632936/1983632937
+2020-04-18 14:10:59  D/httpDns ( 2351): Content-Length: 1983632937
+2020-04-18 14:10:59  D/httpDns ( 2351): X-NWS-LOG-UUID: 8987291145001746985
+2020-04-18 14:10:59  D/httpDns ( 2351): X-NWS-UUID-VERIFY: c6f27fe082827cc24f6cf00ccc402d48
+2020-04-18 14:10:59  D/httpDns ( 2351): Connection: keep-alive
+2020-04-18 14:10:59  D/httpDns ( 2351): X-Cache-Lookup: Cache Hit
+2020-04-18 14:10:59  D/httpDns ( 2351): Content-disposition: attachment; filename=10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk
+2020-04-18 14:10:59  D/httpDns ( 2351): <-- END HTTP
+2020-04-18 14:21:28  D/httpDns ( 2351): http connect completed url = https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk
+2020-04-18 15:12:20  D/httpDns ( 2351): download url = https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=80654&pack.id=38897955
+2020-04-18 15:12:20  D/httpDns ( 2351): DownloadTaskMgr addTask url =  = [https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=80654&pack.id=38897955] , id = [-1804197828]
+2020-04-18 15:12:20  D/httpDns ( 2351): DownloadTaskMgr pending url = [https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=80654&pack.id=38897955] , id = [-1804197828]
+2020-04-18 15:12:20  D/httpDns ( 2351): DownloadTaskMgr started url = [https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=80654&pack.id=38897955] , id = [-1804197828]
+2020-04-18 15:12:22  D/httpDns ( 2351): --> GET https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=80654&pack.id=38897955 h2
+2020-04-18 15:12:22  D/httpDns ( 2351): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-04-18 15:12:22  D/httpDns ( 2351): Cache-Control: no-cache
+2020-04-18 15:12:22  D/httpDns ( 2351): Range: bytes=0-0
+2020-04-18 15:12:22  D/httpDns ( 2351): Host: ugame.9game.cn
+2020-04-18 15:12:22  D/httpDns ( 2351): Connection: Keep-Alive
+2020-04-18 15:12:22  D/httpDns ( 2351): --> END GET
+2020-04-18 15:12:23  D/httpDns ( 2351): <-- 302  https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=80654&pack.id=38897955 (507ms)
+2020-04-18 15:12:23  D/httpDns ( 2351): date: Sat, 18 Apr 2020 07:12:23 GMT
+2020-04-18 15:12:23  D/httpDns ( 2351): content-type: text/plain; charset=utf-8
+2020-04-18 15:12:23  D/httpDns ( 2351): content-length: 0
+2020-04-18 15:12:23  D/httpDns ( 2351): location: http://downali.game.uc.cn/s/5/13/20200407093517_gzlj_uc_2020_04_03_11_02_27.apk?x-oss-process=udf/uc-apk,ZBHDhDR0LVBnSMK-wpLCng==5fd1d1b13689e51b&did=42c180cb3ed9490f862a02c36b93a82e
+2020-04-18 15:12:23  D/httpDns ( 2351): server: Tengine
+2020-04-18 15:12:23  D/httpDns ( 2351): set-cookie: JWS_SESSION=; Max-Age=0; Expires=Sat, 18 Apr 2020 07:12:23 GMT; Path=/; HTTPOnly
+2020-04-18 15:12:23  D/httpDns ( 2351): set-cookie: __SID=4ddd8ada80804e2d8999356d95d0e1c6; Max-Age=1800; Expires=Sat, 18 Apr 2020 07:42:23 GMT; Path=/; HTTPOnly
+2020-04-18 15:12:23  D/httpDns ( 2351): cache-control: no-cache
+2020-04-18 15:12:23  D/httpDns ( 2351): eagleeye-traceid: 0b1b05c415871939430017864ece53
+2020-04-18 15:12:23  D/httpDns ( 2351): strict-transport-security: max-age=31536000
+2020-04-18 15:12:23  D/httpDns ( 2351): timing-allow-origin: *
+2020-04-18 15:12:23  D/httpDns ( 2351): <-- END HTTP
+2020-04-18 15:12:23  D/httpDns ( 2351): download url = https://pkg.biligame.com/games/gzlj_ob_baidupinzhuan_024713.apk
+2020-04-18 15:12:23  D/httpDns ( 2351): DownloadTaskMgr addTask url =  = [https://pkg.biligame.com/games/gzlj_ob_baidupinzhuan_024713.apk] , id = [-1478523481]
+2020-04-18 15:12:23  D/httpDns ( 2351): DownloadTaskMgr pending url = [https://pkg.biligame.com/games/gzlj_ob_baidupinzhuan_024713.apk] , id = [-1478523481]
+2020-04-18 15:12:23  D/httpDns ( 2351): DownloadTaskMgr started url = [https://pkg.biligame.com/games/gzlj_ob_baidupinzhuan_024713.apk] , id = [-1478523481]
+2020-04-18 15:12:23  D/httpDns ( 2351): --> GET https://downali.game.uc.cn/s/5/13/20200407093517_gzlj_uc_2020_04_03_11_02_27.apk?x-oss-process=udf/uc-apk,ZBHDhDR0LVBnSMK-wpLCng==5fd1d1b13689e51b&did=42c180cb3ed9490f862a02c36b93a82e h2
+2020-04-18 15:12:23  D/httpDns ( 2351): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-04-18 15:12:23  D/httpDns ( 2351): Cache-Control: no-cache
+2020-04-18 15:12:23  D/httpDns ( 2351): Range: bytes=0-0
+2020-04-18 15:12:23  D/httpDns ( 2351): Host: downali.game.uc.cn
+2020-04-18 15:12:23  D/httpDns ( 2351): Connection: Keep-Alive
+2020-04-18 15:12:23  D/httpDns ( 2351): --> END GET
+2020-04-18 15:12:23  D/httpDns ( 2351): <-- 206  https://downali.game.uc.cn/s/5/13/20200407093517_gzlj_uc_2020_04_03_11_02_27.apk?x-oss-process=udf/uc-apk,ZBHDhDR0LVBnSMK-wpLCng==5fd1d1b13689e51b&did=42c180cb3ed9490f862a02c36b93a82e (51ms)
+2020-04-18 15:12:23  D/httpDns ( 2351): server: Tengine
+2020-04-18 15:12:23  D/httpDns ( 2351): content-type: application/vnd.android.package-archive
+2020-04-18 15:12:23  D/httpDns ( 2351): content-length: 1
+2020-04-18 15:12:23  D/httpDns ( 2351): access-control-expose-headers: Date,x-fc-request-id,x-fc-error-type,x-fc-code-checksum,x-fc-invocation-duration,x-fc-max-memory-usage,x-fc-log-result,x-fc-invocation-code-version
+2020-04-18 15:12:23  D/httpDns ( 2351): cache-control: max-age=1209600
+2020-04-18 15:12:23  D/httpDns ( 2351): x-fc-code-checksum: 9843073028387551616
+2020-04-18 15:12:23  D/httpDns ( 2351): x-fc-invocation-duration: 15
+2020-04-18 15:12:23  D/httpDns ( 2351): x-fc-invocation-service-version: LATEST
+2020-04-18 15:12:23  D/httpDns ( 2351): x-fc-max-memory-usage: 167.20
+2020-04-18 15:12:23  D/httpDns ( 2351): x-fc-request-id: 65cb84a8-5235-42a5-b8ac-eb770623147a
+2020-04-18 15:12:23  D/httpDns ( 2351): date: Wed, 15 Apr 2020 09:16:29 GMT
+2020-04-18 15:12:23  D/httpDns ( 2351): ali-swift-global-savetime: 1586942189
+2020-04-18 15:12:23  D/httpDns ( 2351): via: cache18.l2sg52[0,206-0,H], cache7.l2sg52[2,0], cache7.l2sg52[2,0], cache8.au2[0,206-0,H], cache7.au2[3,0]
+2020-04-18 15:12:23  D/httpDns ( 2351): age: 251754
+2020-04-18 15:12:23  D/httpDns ( 2351): x-cache: HIT TCP_MEM_HIT dirn:4:519410678 mlen:0
+2020-04-18 15:12:23  D/httpDns ( 2351): x-swift-savetime: Wed, 15 Apr 2020 13:29:57 GMT
+2020-04-18 15:12:23  D/httpDns ( 2351): x-swift-cachetime: 1194392
+2020-04-18 15:12:23  D/httpDns ( 2351): content-range: bytes 0-0/1521774654
+2020-04-18 15:12:23  D/httpDns ( 2351): timing-allow-origin: *
+2020-04-18 15:12:23  D/httpDns ( 2351): eagleid: 2ff62a9b15871939434755831e
+2020-04-18 15:12:23  D/httpDns ( 2351): <-- END HTTP
+2020-04-18 15:12:23  D/httpDns ( 2351): --> GET https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=80654&pack.id=38897955 h2
+2020-04-18 15:12:23  D/httpDns ( 2351): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-04-18 15:12:23  D/httpDns ( 2351): Cache-Control: no-cache
+2020-04-18 15:12:23  D/httpDns ( 2351): Range: bytes=0-
+2020-04-18 15:12:23  D/httpDns ( 2351): Host: ugame.9game.cn
+2020-04-18 15:12:23  D/httpDns ( 2351): Connection: Keep-Alive
+2020-04-18 15:12:23  D/httpDns ( 2351): --> END GET
+2020-04-18 15:12:23  D/httpDns ( 2351): DownloadTaskMgr connected url = [https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=80654&pack.id=38897955] , id = [-1804197828]
+2020-04-18 15:12:23  D/httpDns ( 2351): --> GET https://pkg.biligame.com/games/gzlj_ob_baidupinzhuan_024713.apk http/1.1
+2020-04-18 15:12:23  D/httpDns ( 2351): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-04-18 15:12:23  D/httpDns ( 2351): Cache-Control: no-cache
+2020-04-18 15:12:23  D/httpDns ( 2351): Range: bytes=0-0
+2020-04-18 15:12:23  D/httpDns ( 2351): Host: pkg.biligame.com
+2020-04-18 15:12:23  D/httpDns ( 2351): Connection: Keep-Alive
+2020-04-18 15:12:23  D/httpDns ( 2351): --> END GET
+2020-04-18 15:12:23  D/httpDns ( 2351): <-- 302  https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=80654&pack.id=38897955 (502ms)
+2020-04-18 15:12:23  D/httpDns ( 2351): date: Sat, 18 Apr 2020 07:12:23 GMT
+2020-04-18 15:12:23  D/httpDns ( 2351): content-type: text/plain; charset=utf-8
+2020-04-18 15:12:23  D/httpDns ( 2351): content-length: 0
+2020-04-18 15:12:23  D/httpDns ( 2351): location: http://downali.game.uc.cn/s/5/13/20200407093517_gzlj_uc_2020_04_03_11_02_27.apk?x-oss-process=udf/uc-apk,ZBHDhDR0LVBnSMK-wpLCng==5fd1d1b13689e51b&did=9fd20ffd43154922b76fb353a8672966
+2020-04-18 15:12:23  D/httpDns ( 2351): server: Tengine
+2020-04-18 15:12:23  D/httpDns ( 2351): set-cookie: JWS_SESSION=; Max-Age=0; Expires=Sat, 18 Apr 2020 07:12:23 GMT; Path=/; HTTPOnly
+2020-04-18 15:12:23  D/httpDns ( 2351): set-cookie: __SID=b2c29d61c3a649ce9a6c9f8b11a4610e; Max-Age=1800; Expires=Sat, 18 Apr 2020 07:42:23 GMT; Path=/; HTTPOnly
+2020-04-18 15:12:23  D/httpDns ( 2351): cache-control: no-cache
+2020-04-18 15:12:23  D/httpDns ( 2351): eagleeye-traceid: 0b1b05c415871939438217964ece53
+2020-04-18 15:12:23  D/httpDns ( 2351): strict-transport-security: max-age=31536000
+2020-04-18 15:12:23  D/httpDns ( 2351): timing-allow-origin: *
+2020-04-18 15:12:23  D/httpDns ( 2351): <-- END HTTP
+2020-04-18 15:12:23  D/httpDns ( 2351): --> GET https://downali.game.uc.cn/s/5/13/20200407093517_gzlj_uc_2020_04_03_11_02_27.apk?x-oss-process=udf/uc-apk,ZBHDhDR0LVBnSMK-wpLCng==5fd1d1b13689e51b&did=9fd20ffd43154922b76fb353a8672966 h2
+2020-04-18 15:12:23  D/httpDns ( 2351): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-04-18 15:12:23  D/httpDns ( 2351): Cache-Control: no-cache
+2020-04-18 15:12:23  D/httpDns ( 2351): Range: bytes=0-
+2020-04-18 15:12:23  D/httpDns ( 2351): Host: downali.game.uc.cn
+2020-04-18 15:12:23  D/httpDns ( 2351): Connection: Keep-Alive
+2020-04-18 15:12:23  D/httpDns ( 2351): --> END GET
+2020-04-18 15:12:23  D/httpDns ( 2351): <-- 206 Partial Content https://pkg.biligame.com/games/gzlj_ob_baidupinzhuan_024713.apk (49ms)
+2020-04-18 15:12:23  D/httpDns ( 2351): Date: Sat, 18 Apr 2020 07:12:24 GMT
+2020-04-18 15:12:23  D/httpDns ( 2351): Content-Type: application/vnd.android.package-archive
+2020-04-18 15:12:23  D/httpDns ( 2351): Content-Length: 1
+2020-04-18 15:12:23  D/httpDns ( 2351): Connection: keep-alive
+2020-04-18 15:12:23  D/httpDns ( 2351): Server: NWS_Oversea_AP
+2020-04-18 15:12:23  D/httpDns ( 2351): Cache-Control: max-age=600
+2020-04-18 15:12:23  D/httpDns ( 2351): Expires: Sat, 18 Apr 2020 07:22:23 GMT
+2020-04-18 15:12:23  D/httpDns ( 2351): Last-Modified: Mon, 13 Apr 2020 17:55:57 GMT
+2020-04-18 15:12:23  D/httpDns ( 2351): Content-Range: bytes 0-0/1512361555
+2020-04-18 15:12:23  D/httpDns ( 2351): X-NWS-LOG-UUID: ac345948-5424-4022-ac56-d0d127489ada
+2020-04-18 15:12:23  D/httpDns ( 2351): X-Cache-Lookup: Hit From Disktank3
+2020-04-18 15:12:23  D/httpDns ( 2351): Content-Disposition: attachment; filename*="UTF-8''gzlj_ob_baidupinzhuan_024713.apk"
+2020-04-18 15:12:23  D/httpDns ( 2351): Accept-Ranges: bytes
+2020-04-18 15:12:23  D/httpDns ( 2351): <-- END HTTP
+2020-04-18 15:12:24  D/httpDns ( 2351): DownloadTaskMgr connected url = [https://pkg.biligame.com/games/gzlj_ob_baidupinzhuan_024713.apk] , id = [-1478523481]
+2020-04-18 15:12:24  D/httpDns ( 2351): <-- 206  https://downali.game.uc.cn/s/5/13/20200407093517_gzlj_uc_2020_04_03_11_02_27.apk?x-oss-process=udf/uc-apk,ZBHDhDR0LVBnSMK-wpLCng==5fd1d1b13689e51b&did=9fd20ffd43154922b76fb353a8672966 (63ms)
+2020-04-18 15:12:24  D/httpDns ( 2351): server: Tengine
+2020-04-18 15:12:24  D/httpDns ( 2351): content-type: application/vnd.android.package-archive
+2020-04-18 15:12:24  D/httpDns ( 2351): content-length: 1521774654
+2020-04-18 15:12:24  D/httpDns ( 2351): access-control-expose-headers: Date,x-fc-request-id,x-fc-error-type,x-fc-code-checksum,x-fc-invocation-duration,x-fc-max-memory-usage,x-fc-log-result,x-fc-invocation-code-version
+2020-04-18 15:12:24  D/httpDns ( 2351): cache-control: max-age=1209600
+2020-04-18 15:12:24  D/httpDns ( 2351): x-fc-code-checksum: 9843073028387551616
+2020-04-18 15:12:24  D/httpDns ( 2351): x-fc-invocation-duration: 15
+2020-04-18 15:12:24  D/httpDns ( 2351): x-fc-invocation-service-version: LATEST
+2020-04-18 15:12:24  D/httpDns ( 2351): x-fc-max-memory-usage: 167.20
+2020-04-18 15:12:24  D/httpDns ( 2351): x-fc-request-id: 65cb84a8-5235-42a5-b8ac-eb770623147a
+2020-04-18 15:12:24  D/httpDns ( 2351): date: Wed, 15 Apr 2020 09:16:29 GMT
+2020-04-18 15:12:24  D/httpDns ( 2351): ali-swift-global-savetime: 1586942189
+2020-04-18 15:12:24  D/httpDns ( 2351): via: cache18.l2sg52[0,206-0,H], cache7.l2sg52[2,0], cache7.l2sg52[2,0], cache8.au2[0,206-0,H], cache7.au2[3,0]
+2020-04-18 15:12:24  D/httpDns ( 2351): age: 251755
+2020-04-18 15:12:24  D/httpDns ( 2351): x-cache: HIT TCP_MEM_HIT dirn:4:519410678 mlen:0
+2020-04-18 15:12:24  D/httpDns ( 2351): x-swift-savetime: Wed, 15 Apr 2020 13:29:57 GMT
+2020-04-18 15:12:24  D/httpDns ( 2351): x-swift-cachetime: 1194392
+2020-04-18 15:12:24  D/httpDns ( 2351): content-range: bytes 0-1521774653/1521774654
+2020-04-18 15:12:24  D/httpDns ( 2351): timing-allow-origin: *
+2020-04-18 15:12:24  D/httpDns ( 2351): eagleid: 2ff62a9b15871939440356979e
+2020-04-18 15:12:24  D/httpDns ( 2351): <-- END HTTP
+2020-04-18 15:12:24  D/httpDns ( 2351): --> GET https://pkg.biligame.com/games/gzlj_ob_baidupinzhuan_024713.apk http/1.1
+2020-04-18 15:12:24  D/httpDns ( 2351): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-04-18 15:12:24  D/httpDns ( 2351): Cache-Control: no-cache
+2020-04-18 15:12:24  D/httpDns ( 2351): Range: bytes=0-
+2020-04-18 15:12:24  D/httpDns ( 2351): Host: pkg.biligame.com
+2020-04-18 15:12:24  D/httpDns ( 2351): Connection: Keep-Alive
+2020-04-18 15:12:24  D/httpDns ( 2351): --> END GET
+2020-04-18 15:12:24  D/httpDns ( 2351): <-- 206 Partial Content https://pkg.biligame.com/games/gzlj_ob_baidupinzhuan_024713.apk (96ms)
+2020-04-18 15:12:24  D/httpDns ( 2351): Date: Sat, 18 Apr 2020 07:12:24 GMT
+2020-04-18 15:12:24  D/httpDns ( 2351): Content-Type: application/vnd.android.package-archive
+2020-04-18 15:12:24  D/httpDns ( 2351): Content-Length: 1512361555
+2020-04-18 15:12:24  D/httpDns ( 2351): Connection: keep-alive
+2020-04-18 15:12:24  D/httpDns ( 2351): Server: NWS_Oversea_AP
+2020-04-18 15:12:24  D/httpDns ( 2351): Cache-Control: max-age=600
+2020-04-18 15:12:24  D/httpDns ( 2351): Expires: Sat, 18 Apr 2020 07:22:23 GMT
+2020-04-18 15:12:24  D/httpDns ( 2351): Last-Modified: Mon, 13 Apr 2020 17:55:57 GMT
+2020-04-18 15:12:24  D/httpDns ( 2351): Content-Range: bytes 0-1512361554/1512361555
+2020-04-18 15:12:24  D/httpDns ( 2351): X-NWS-LOG-UUID: 9a981a21-1c32-49af-82a3-9373ac21a8c6
+2020-04-18 15:12:24  D/httpDns ( 2351): X-Cache-Lookup: Hit From Disktank3
+2020-04-18 15:12:24  D/httpDns ( 2351): Content-Disposition: attachment; filename*="UTF-8''gzlj_ob_baidupinzhuan_024713.apk"
+2020-04-18 15:12:24  D/httpDns ( 2351): Accept-Ranges: bytes
+2020-04-18 15:12:24  D/httpDns ( 2351): <-- END HTTP
+
+
+2020-04-18 15:37:32//***********************************************************//
+2020-04-18 15:37:35  D/httpDns ( 2325): download url = https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=80654&pack.id=38897955
+2020-04-18 15:37:35  D/httpDns ( 2325): DownloadTaskMgr addTask url =  = [https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=80654&pack.id=38897955] , id = [-1804197828]
+2020-04-18 15:37:35  D/httpDns ( 2325): DownloadTaskMgr pending url = [https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=80654&pack.id=38897955] , id = [-1804197828]
+2020-04-18 15:37:35  D/httpDns ( 2325): DownloadTaskMgr started url = [https://ugame.9game.cn/game/downloadGame?pack.cooperateModelId=80654&pack.id=38897955] , id = [-1804197828]
+
+
+2020-04-19 12:37:48//***********************************************************//
+2020-04-19 12:37:48  D/httpDns ( 2083): --> GET http://res.ldmnq.com/ldAppStore/splash_img.jpg http/1.1
+2020-04-19 12:37:48  D/httpDns ( 2083): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; M973Q Build/LMY47I)
+2020-04-19 12:37:48  D/httpDns ( 2083): Cache-Control: no-cache
+2020-04-19 12:37:48  D/httpDns ( 2083): Range: bytes=0-0
+2020-04-19 12:37:48  D/httpDns ( 2083): Host: res.ldmnq.com
+2020-04-19 12:37:48  D/httpDns ( 2083): Connection: Keep-Alive
+2020-04-19 12:37:48  D/httpDns ( 2083): --> END GET
+2020-04-19 12:37:48  D/httpDns ( 2083): <-- 206 Partial Content http://res.ldmnq.com/ldAppStore/splash_img.jpg (419ms)
+2020-04-19 12:37:48  D/httpDns ( 2083): Server: Tengine
+2020-04-19 12:37:48  D/httpDns ( 2083): Content-Type: image/jpeg
+2020-04-19 12:37:48  D/httpDns ( 2083): Content-Length: 1
+2020-04-19 12:37:48  D/httpDns ( 2083): Connection: keep-alive
+2020-04-19 12:37:48  D/httpDns ( 2083): Date: Sun, 19 Apr 2020 04:37:48 GMT
+2020-04-19 12:37:48  D/httpDns ( 2083): x-oss-request-id: 5E9BD59CA4DF8D323434A28A
+2020-04-19 12:37:48  D/httpDns ( 2083): x-oss-cdn-auth: success
+2020-04-19 12:37:48  D/httpDns ( 2083): Accept-Ranges: bytes
+2020-04-19 12:37:48  D/httpDns ( 2083): ETag: "EC9A2151B69DFE5F58EC5EDBCEF6A016"
+2020-04-19 12:37:48  D/httpDns ( 2083): Last-Modified: Tue, 04 Jun 2019 09:31:59 GMT
+2020-04-19 12:37:48  D/httpDns ( 2083): x-oss-object-type: Normal
+2020-04-19 12:37:48  D/httpDns ( 2083): x-oss-hash-crc64ecma: 4098007799980883483
+2020-04-19 12:37:48  D/httpDns ( 2083): x-oss-storage-class: Standard
+2020-04-19 12:37:48  D/httpDns ( 2083): Content-MD5: 7JohUbad/l9Y7F7bzvagFg==
+2020-04-19 12:37:48  D/httpDns ( 2083): x-oss-server-time: 2
+2020-04-19 12:37:48  D/httpDns ( 2083): Via: cache36.l2sg52[262,304-0,H], cache20.l2sg52[263,0], cache5.au2[389,206-0,H], cache2.au2[392,0]
+2020-04-19 12:37:48  D/httpDns ( 2083): Ali-Swift-Global-Savetime: 1586244489
+2020-04-19 12:37:48  D/httpDns ( 2083): Age: 0
+2020-04-19 12:37:48  D/httpDns ( 2083): X-Cache: HIT TCP_REFRESH_HIT dirn:9:389300912
+2020-04-19 12:37:48  D/httpDns ( 2083): X-Swift-SaveTime: Sun, 19 Apr 2020 04:37:48 GMT
+2020-04-19 12:37:48  D/httpDns ( 2083): X-Swift-CacheTime: 3600
+2020-04-19 12:37:48  D/httpDns ( 2083): Content-Range: bytes 0-0/60266
+2020-04-19 12:37:48  D/httpDns ( 2083): Timing-Allow-Origin: *
+2020-04-19 12:37:48  D/httpDns ( 2083): EagleId: 2ff62a9615872710685286140e
+2020-04-19 12:37:48  D/httpDns ( 2083): <-- END HTTP
+2020-04-19 12:37:48  D/httpDns ( 2083): --> GET http://res.ldmnq.com/ldAppStore/splash_img.jpg http/1.1
+2020-04-19 12:37:48  D/httpDns ( 2083): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; M973Q Build/LMY47I)
+2020-04-19 12:37:48  D/httpDns ( 2083): Cache-Control: no-cache
+2020-04-19 12:37:48  D/httpDns ( 2083): If-Match: "EC9A2151B69DFE5F58EC5EDBCEF6A016"
+2020-04-19 12:37:48  D/httpDns ( 2083): Range: bytes=0-
+2020-04-19 12:37:48  D/httpDns ( 2083): Host: res.ldmnq.com
+2020-04-19 12:37:48  D/httpDns ( 2083): Connection: Keep-Alive
+2020-04-19 12:37:48  D/httpDns ( 2083): --> END GET
+2020-04-19 12:37:49  D/httpDns ( 2083): <-- 206 Partial Content http://res.ldmnq.com/ldAppStore/splash_img.jpg (30ms)
+2020-04-19 12:37:49  D/httpDns ( 2083): Server: Tengine
+2020-04-19 12:37:49  D/httpDns ( 2083): Content-Type: image/jpeg
+2020-04-19 12:37:49  D/httpDns ( 2083): Content-Length: 60266
+2020-04-19 12:37:49  D/httpDns ( 2083): Connection: keep-alive
+2020-04-19 12:37:49  D/httpDns ( 2083): Date: Sun, 19 Apr 2020 04:37:48 GMT
+2020-04-19 12:37:49  D/httpDns ( 2083): x-oss-request-id: 5E9BD59CA4DF8D323434A28A
+2020-04-19 12:37:49  D/httpDns ( 2083): x-oss-cdn-auth: success
+2020-04-19 12:37:49  D/httpDns ( 2083): Accept-Ranges: bytes
+2020-04-19 12:37:49  D/httpDns ( 2083): ETag: "EC9A2151B69DFE5F58EC5EDBCEF6A016"
+2020-04-19 12:37:49  D/httpDns ( 2083): Last-Modified: Tue, 04 Jun 2019 09:31:59 GMT
+2020-04-19 12:37:49  D/httpDns ( 2083): x-oss-object-type: Normal
+2020-04-19 12:37:49  D/httpDns ( 2083): x-oss-hash-crc64ecma: 4098007799980883483
+2020-04-19 12:37:49  D/httpDns ( 2083): x-oss-storage-class: Standard
+2020-04-19 12:37:49  D/httpDns ( 2083): Content-MD5: 7JohUbad/l9Y7F7bzvagFg==
+2020-04-19 12:37:49  D/httpDns ( 2083): x-oss-server-time: 2
+2020-04-19 12:37:49  D/httpDns ( 2083): Via: cache36.l2sg52[262,304-0,H], cache20.l2sg52[263,0], cache5.au2[0,206-0,H], cache1.au2[1,0]
+2020-04-19 12:37:49  D/httpDns ( 2083): Ali-Swift-Global-Savetime: 1586244489
+2020-04-19 12:37:49  D/httpDns ( 2083): Age: 0
+2020-04-19 12:37:49  D/httpDns ( 2083): X-Cache: HIT TCP_MEM_HIT dirn:9:389300912
+2020-04-19 12:37:49  D/httpDns ( 2083): X-Swift-SaveTime: Sun, 19 Apr 2020 04:37:48 GMT
+2020-04-19 12:37:49  D/httpDns ( 2083): X-Swift-CacheTime: 3600
+2020-04-19 12:37:49  D/httpDns ( 2083): Content-Range: bytes 0-60265/60266
+2020-04-19 12:37:49  D/httpDns ( 2083): Timing-Allow-Origin: *
+2020-04-19 12:37:49  D/httpDns ( 2083): EagleId: 2ff62a9515872710689998232e
+2020-04-19 12:37:49  D/httpDns ( 2083): <-- END HTTP
+2020-04-19 12:39:42  D/httpDns ( 2083): download url = http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk
+2020-04-19 12:39:42  D/httpDns ( 2083): DownloadTaskMgr addTask url =  = [http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk] , id = [-904075948]
+2020-04-19 12:39:42  D/httpDns ( 2083): DownloadTaskMgr pending url = [http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk] , id = [-904075948]
+2020-04-19 12:39:42  D/httpDns ( 2083): DownloadTaskMgr started url = [http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk] , id = [-904075948]
+2020-04-19 12:39:43  D/httpDns ( 2083): --> GET http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk http/1.1
+2020-04-19 12:39:43  D/httpDns ( 2083): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; M973Q Build/LMY47I)
+2020-04-19 12:39:43  D/httpDns ( 2083): Cache-Control: no-cache
+2020-04-19 12:39:43  D/httpDns ( 2083): Range: bytes=0-0
+2020-04-19 12:39:43  D/httpDns ( 2083): Host: ldgame.ldmnq.com
+2020-04-19 12:39:43  D/httpDns ( 2083): Connection: Keep-Alive
+2020-04-19 12:39:43  D/httpDns ( 2083): --> END GET
+2020-04-19 12:39:44  D/httpDns ( 2083): <-- 206 Partial Content http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk (648ms)
+2020-04-19 12:39:44  D/httpDns ( 2083): Server: Tengine
+2020-04-19 12:39:44  D/httpDns ( 2083): Content-Type: application/vnd.android.package-archive
+2020-04-19 12:39:44  D/httpDns ( 2083): Content-Length: 1
+2020-04-19 12:39:44  D/httpDns ( 2083): Connection: keep-alive
+2020-04-19 12:39:44  D/httpDns ( 2083): Date: Sat, 18 Apr 2020 16:27:27 GMT
+2020-04-19 12:39:44  D/httpDns ( 2083): Cache-Control: max-age=86400
+2020-04-19 12:39:44  D/httpDns ( 2083): Expires: Sun, 19 Apr 2020 16:27:27 GMT
+2020-04-19 12:39:44  D/httpDns ( 2083): x-oss-request-id: 5E9B2A6FE15FB335329B2E6D
+2020-04-19 12:39:44  D/httpDns ( 2083): x-oss-cdn-auth: success
+2020-04-19 12:39:44  D/httpDns ( 2083): Accept-Ranges: bytes
+2020-04-19 12:39:44  D/httpDns ( 2083): ETag: "C03CC1851D9A086FF2D0BD46D869CBD7-113"
+2020-04-19 12:39:44  D/httpDns ( 2083): Last-Modified: Tue, 07 Apr 2020 04:15:51 GMT
+2020-04-19 12:39:44  D/httpDns ( 2083): x-oss-object-type: Multipart
+2020-04-19 12:39:44  D/httpDns ( 2083): x-oss-hash-crc64ecma: 7251870997320852098
+2020-04-19 12:39:44  D/httpDns ( 2083): x-oss-storage-class: Standard
+2020-04-19 12:39:44  D/httpDns ( 2083): x-oss-server-time: 14
+2020-04-19 12:39:44  D/httpDns ( 2083): Via: cache31.l2cn1809[0,304-0,H], cache2.l2cn1809[6,0], vcache12.cn2502[108,206-0,H], vcache14.cn2502[122,0]
+2020-04-19 12:39:44  D/httpDns ( 2083): Ali-Swift-Global-Savetime: 1586234204
+2020-04-19 12:39:44  D/httpDns ( 2083): Age: 43937
+2020-04-19 12:39:44  D/httpDns ( 2083): X-Cache: HIT TCP_REFRESH_HIT dirn:10:249089565
+2020-04-19 12:39:44  D/httpDns ( 2083): X-Swift-SaveTime: Sun, 19 Apr 2020 04:39:44 GMT
+2020-04-19 12:39:44  D/httpDns ( 2083): X-Swift-CacheTime: 86400
+2020-04-19 12:39:44  D/httpDns ( 2083): Content-Range: bytes 0-0/1179046552
+2020-04-19 12:39:44  D/httpDns ( 2083): Timing-Allow-Origin: *
+2020-04-19 12:39:44  D/httpDns ( 2083): EagleId: b6546ed615872711839096864e
+2020-04-19 12:39:44  D/httpDns ( 2083): <-- END HTTP
+2020-04-19 12:39:44  D/httpDns ( 2083): DownloadTaskMgr connected url = [http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk] , id = [-904075948]
+2020-04-19 12:39:44  D/httpDns ( 2083): --> GET http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk http/1.1
+2020-04-19 12:39:44  D/httpDns ( 2083): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; M973Q Build/LMY47I)
+2020-04-19 12:39:44  D/httpDns ( 2083): Cache-Control: no-cache
+2020-04-19 12:39:44  D/httpDns ( 2083): If-Match: "C03CC1851D9A086FF2D0BD46D869CBD7-113"
+2020-04-19 12:39:44  D/httpDns ( 2083): Range: bytes=0-
+2020-04-19 12:39:44  D/httpDns ( 2083): Host: ldgame.ldmnq.com
+2020-04-19 12:39:44  D/httpDns ( 2083): Connection: Keep-Alive
+2020-04-19 12:39:44  D/httpDns ( 2083): --> END GET
+2020-04-19 12:39:45  D/httpDns ( 2083): <-- 206 Partial Content http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk (782ms)
+2020-04-19 12:39:45  D/httpDns ( 2083): Server: Tengine
+2020-04-19 12:39:45  D/httpDns ( 2083): Content-Type: application/vnd.android.package-archive
+2020-04-19 12:39:45  D/httpDns ( 2083): Content-Length: 1179046552
+2020-04-19 12:39:45  D/httpDns ( 2083): Connection: keep-alive
+2020-04-19 12:39:45  D/httpDns ( 2083): Date: Sat, 18 Apr 2020 16:27:27 GMT
+2020-04-19 12:39:45  D/httpDns ( 2083): Cache-Control: max-age=86400
+2020-04-19 12:39:45  D/httpDns ( 2083): Expires: Sun, 19 Apr 2020 16:27:27 GMT
+2020-04-19 12:39:45  D/httpDns ( 2083): x-oss-request-id: 5E9B2A6FE15FB335329B2E6D
+2020-04-19 12:39:45  D/httpDns ( 2083): x-oss-cdn-auth: success
+2020-04-19 12:39:45  D/httpDns ( 2083): Accept-Ranges: bytes
+2020-04-19 12:39:45  D/httpDns ( 2083): ETag: "C03CC1851D9A086FF2D0BD46D869CBD7-113"
+2020-04-19 12:39:45  D/httpDns ( 2083): Last-Modified: Tue, 07 Apr 2020 04:15:51 GMT
+2020-04-19 12:39:45  D/httpDns ( 2083): x-oss-object-type: Multipart
+2020-04-19 12:39:45  D/httpDns ( 2083): x-oss-hash-crc64ecma: 7251870997320852098
+2020-04-19 12:39:45  D/httpDns ( 2083): x-oss-storage-class: Standard
+2020-04-19 12:39:45  D/httpDns ( 2083): x-oss-server-time: 14
+2020-04-19 12:39:45  D/httpDns ( 2083): Via: cache31.l2cn1809[0,304-0,H], cache2.l2cn1809[6,0], vcache12.cn2502[0,206-0,H], vcache1.cn2502[26,0]
+2020-04-19 12:39:45  D/httpDns ( 2083): Ali-Swift-Global-Savetime: 1586234204
+2020-04-19 12:39:45  D/httpDns ( 2083): Age: 43938
+2020-04-19 12:39:45  D/httpDns ( 2083): X-Cache: HIT TCP_MEM_HIT dirn:10:249089565
+2020-04-19 12:39:45  D/httpDns ( 2083): X-Swift-SaveTime: Sun, 19 Apr 2020 04:39:44 GMT
+2020-04-19 12:39:45  D/httpDns ( 2083): X-Swift-CacheTime: 86400
+2020-04-19 12:39:45  D/httpDns ( 2083): Content-Range: bytes 0-1179046551/1179046552
+2020-04-19 12:39:45  D/httpDns ( 2083): Timing-Allow-Origin: *
+2020-04-19 12:39:45  D/httpDns ( 2083): EagleId: b6546ec915872711853404371e
+2020-04-19 12:39:45  D/httpDns ( 2083): <-- END HTTP
+2020-04-19 12:40:43  D/httpDns ( 2083): --> GET http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk http/1.1
+2020-04-19 12:40:43  D/httpDns ( 2083): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; M973Q Build/LMY47I)
+2020-04-19 12:40:43  D/httpDns ( 2083): Cache-Control: no-cache
+2020-04-19 12:40:43  D/httpDns ( 2083): If-Match: "C03CC1851D9A086FF2D0BD46D869CBD7-113"
+2020-04-19 12:40:43  D/httpDns ( 2083): Range: bytes=12100078-
+2020-04-19 12:40:43  D/httpDns ( 2083): Host: ldgame.ldmnq.com
+2020-04-19 12:40:43  D/httpDns ( 2083): Connection: Keep-Alive
+2020-04-19 12:40:43  D/httpDns ( 2083): --> END GET
+2020-04-19 12:40:44  D/httpDns ( 2083): <-- 206 Partial Content http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk (557ms)
+2020-04-19 12:40:44  D/httpDns ( 2083): Server: Tengine
+2020-04-19 12:40:44  D/httpDns ( 2083): Content-Type: application/vnd.android.package-archive
+2020-04-19 12:40:44  D/httpDns ( 2083): Content-Length: 1166946474
+2020-04-19 12:40:44  D/httpDns ( 2083): Connection: keep-alive
+2020-04-19 12:40:44  D/httpDns ( 2083): Date: Sat, 18 Apr 2020 16:27:27 GMT
+2020-04-19 12:40:44  D/httpDns ( 2083): Cache-Control: max-age=86400
+2020-04-19 12:40:44  D/httpDns ( 2083): Expires: Sun, 19 Apr 2020 16:27:27 GMT
+2020-04-19 12:40:44  D/httpDns ( 2083): x-oss-request-id: 5E9B2A6FE15FB335329B2E6D
+2020-04-19 12:40:44  D/httpDns ( 2083): x-oss-cdn-auth: success
+2020-04-19 12:40:44  D/httpDns ( 2083): Accept-Ranges: bytes
+2020-04-19 12:40:44  D/httpDns ( 2083): ETag: "C03CC1851D9A086FF2D0BD46D869CBD7-113"
+2020-04-19 12:40:44  D/httpDns ( 2083): Last-Modified: Tue, 07 Apr 2020 04:15:51 GMT
+2020-04-19 12:40:44  D/httpDns ( 2083): x-oss-object-type: Multipart
+2020-04-19 12:40:44  D/httpDns ( 2083): x-oss-hash-crc64ecma: 7251870997320852098
+2020-04-19 12:40:44  D/httpDns ( 2083): x-oss-storage-class: Standard
+2020-04-19 12:40:44  D/httpDns ( 2083): x-oss-server-time: 14
+2020-04-19 12:40:44  D/httpDns ( 2083): Via: cache31.l2cn1809[0,304-0,H], cache2.l2cn1809[6,0], vcache12.cn2502[0,206-0,H], vcache16.cn2502[3,0]
+2020-04-19 12:40:44  D/httpDns ( 2083): Ali-Swift-Global-Savetime: 1586234204
+2020-04-19 12:40:44  D/httpDns ( 2083): Age: 43996
+2020-04-19 12:40:44  D/httpDns ( 2083): X-Cache: HIT TCP_MEM_HIT dirn:10:249089565
+2020-04-19 12:40:44  D/httpDns ( 2083): X-Swift-SaveTime: Sun, 19 Apr 2020 04:39:44 GMT
+2020-04-19 12:40:44  D/httpDns ( 2083): X-Swift-CacheTime: 86400
+2020-04-19 12:40:44  D/httpDns ( 2083): Content-Range: bytes 12100078-1179046551/1179046552
+2020-04-19 12:40:44  D/httpDns ( 2083): Timing-Allow-Origin: *
+2020-04-19 12:40:44  D/httpDns ( 2083): EagleId: b6546ed815872712437618250e
+2020-04-19 12:40:44  D/httpDns ( 2083): <-- END HTTP
+2020-04-19 12:41:45  D/httpDns ( 2083): --> GET http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk http/1.1
+2020-04-19 12:41:45  D/httpDns ( 2083): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; M973Q Build/LMY47I)
+2020-04-19 12:41:45  D/httpDns ( 2083): Cache-Control: no-cache
+2020-04-19 12:41:45  D/httpDns ( 2083): If-Match: "C03CC1851D9A086FF2D0BD46D869CBD7-113"
+2020-04-19 12:41:45  D/httpDns ( 2083): Range: bytes=39321600-
+2020-04-19 12:41:45  D/httpDns ( 2083): Host: ldgame.ldmnq.com
+2020-04-19 12:41:45  D/httpDns ( 2083): Connection: Keep-Alive
+2020-04-19 12:41:45  D/httpDns ( 2083): --> END GET
+2020-04-19 12:41:46  D/httpDns ( 2083): <-- 206 Partial Content http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk (570ms)
+2020-04-19 12:41:46  D/httpDns ( 2083): Server: Tengine
+2020-04-19 12:41:46  D/httpDns ( 2083): Content-Type: application/vnd.android.package-archive
+2020-04-19 12:41:46  D/httpDns ( 2083): Content-Length: 1139724952
+2020-04-19 12:41:46  D/httpDns ( 2083): Connection: keep-alive
+2020-04-19 12:41:46  D/httpDns ( 2083): Date: Sat, 18 Apr 2020 02:33:29 GMT
+2020-04-19 12:41:46  D/httpDns ( 2083): Cache-Control: max-age=86400
+2020-04-19 12:41:46  D/httpDns ( 2083): Expires: Sun, 19 Apr 2020 02:33:29 GMT
+2020-04-19 12:41:46  D/httpDns ( 2083): x-oss-request-id: 5E9A66F9E53D623630198954
+2020-04-19 12:41:46  D/httpDns ( 2083): x-oss-cdn-auth: success
+2020-04-19 12:41:46  D/httpDns ( 2083): Accept-Ranges: bytes
+2020-04-19 12:41:46  D/httpDns ( 2083): ETag: "C03CC1851D9A086FF2D0BD46D869CBD7-113"
+2020-04-19 12:41:46  D/httpDns ( 2083): Last-Modified: Tue, 07 Apr 2020 04:15:51 GMT
+2020-04-19 12:41:46  D/httpDns ( 2083): x-oss-object-type: Multipart
+2020-04-19 12:41:46  D/httpDns ( 2083): x-oss-hash-crc64ecma: 7251870997320852098
+2020-04-19 12:41:46  D/httpDns ( 2083): x-oss-storage-class: Standard
+2020-04-19 12:41:46  D/httpDns ( 2083): x-oss-server-time: 147
+2020-04-19 12:41:46  D/httpDns ( 2083): Via: cache9.l2cn2308[0,304-0,H], cache46.l2cn2308[6,0], vcache8.cn2347[0,206-0,H], vcache13.cn2347[11,0]
+2020-04-19 12:41:46  D/httpDns ( 2083): Ali-Swift-Global-Savetime: 1586270416
+2020-04-19 12:41:46  D/httpDns ( 2083): Age: 94096
+2020-04-19 12:41:46  D/httpDns ( 2083): X-Cache: HIT TCP_MEM_HIT dirn:11:822723661
+2020-04-19 12:41:46  D/httpDns ( 2083): X-Swift-SaveTime: Sat, 18 Apr 2020 08:45:01 GMT
+2020-04-19 12:41:46  D/httpDns ( 2083): X-Swift-CacheTime: 86400
+2020-04-19 12:41:46  D/httpDns ( 2083): Content-Range: bytes 39321600-1179046551/1179046552
+2020-04-19 12:41:46  D/httpDns ( 2083): Timing-Allow-Origin: *
+2020-04-19 12:41:46  D/httpDns ( 2083): EagleId: 3a31c02115872713059062419e
+2020-04-19 12:41:46  D/httpDns ( 2083): <-- END HTTP
+2020-04-19 13:09:08  D/httpDns ( 2083): --> GET http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk http/1.1
+2020-04-19 13:09:08  D/httpDns ( 2083): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; M973Q Build/LMY47I)
+2020-04-19 13:09:08  D/httpDns ( 2083): Cache-Control: no-cache
+2020-04-19 13:09:08  D/httpDns ( 2083): If-Match: "C03CC1851D9A086FF2D0BD46D869CBD7-113"
+2020-04-19 13:09:08  D/httpDns ( 2083): Range: bytes=603466184-
+2020-04-19 13:09:08  D/httpDns ( 2083): Host: ldgame.ldmnq.com
+2020-04-19 13:09:08  D/httpDns ( 2083): Connection: Keep-Alive
+2020-04-19 13:09:08  D/httpDns ( 2083): --> END GET
+2020-04-19 13:09:09  D/httpDns ( 2083): <-- 206 Partial Content http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk (549ms)
+2020-04-19 13:09:09  D/httpDns ( 2083): Server: Tengine
+2020-04-19 13:09:09  D/httpDns ( 2083): Content-Type: application/vnd.android.package-archive
+2020-04-19 13:09:09  D/httpDns ( 2083): Content-Length: 575580368
+2020-04-19 13:09:09  D/httpDns ( 2083): Connection: keep-alive
+2020-04-19 13:09:09  D/httpDns ( 2083): Date: Sat, 18 Apr 2020 07:43:38 GMT
+2020-04-19 13:09:09  D/httpDns ( 2083): Cache-Control: max-age=86400
+2020-04-19 13:09:09  D/httpDns ( 2083): Expires: Sun, 19 Apr 2020 07:43:38 GMT
+2020-04-19 13:09:09  D/httpDns ( 2083): x-oss-request-id: 5E9AAFAA2F4E2B39377F5DF6
+2020-04-19 13:09:09  D/httpDns ( 2083): x-oss-cdn-auth: success
+2020-04-19 13:09:09  D/httpDns ( 2083): Accept-Ranges: bytes
+2020-04-19 13:09:09  D/httpDns ( 2083): ETag: "C03CC1851D9A086FF2D0BD46D869CBD7-113"
+2020-04-19 13:09:09  D/httpDns ( 2083): Last-Modified: Tue, 07 Apr 2020 04:15:51 GMT
+2020-04-19 13:09:09  D/httpDns ( 2083): x-oss-object-type: Multipart
+2020-04-19 13:09:09  D/httpDns ( 2083): x-oss-hash-crc64ecma: 7251870997320852098
+2020-04-19 13:09:09  D/httpDns ( 2083): x-oss-storage-class: Standard
+2020-04-19 13:09:09  D/httpDns ( 2083): x-oss-server-time: 11
+2020-04-19 13:09:09  D/httpDns ( 2083): Via: cache28.l2cn1821[0,304-0,H], cache11.l2cn1821[6,0], cache15.cn2026[0,206-0,H], cache6.cn2026[20,0]
+2020-04-19 13:09:09  D/httpDns ( 2083): Ali-Swift-Global-Savetime: 1586234204
+2020-04-19 13:09:09  D/httpDns ( 2083): Age: 77131
+2020-04-19 13:09:09  D/httpDns ( 2083): X-Cache: HIT TCP_MEM_HIT dirn:11:153060804
+2020-04-19 13:09:09  D/httpDns ( 2083): X-Swift-SaveTime: Sat, 18 Apr 2020 23:55:07 GMT
+2020-04-19 13:09:09  D/httpDns ( 2083): X-Swift-CacheTime: 86400
+2020-04-19 13:09:09  D/httpDns ( 2083): Content-Range: bytes 603466184-1179046551/1179046552
+2020-04-19 13:09:09  D/httpDns ( 2083): Timing-Allow-Origin: *
+2020-04-19 13:09:09  D/httpDns ( 2083): EagleId: b788e71a15872729492227306e
+2020-04-19 13:09:09  D/httpDns ( 2083): <-- END HTTP
+2020-04-19 13:10:47  D/httpDns ( 2083): DownloadTaskMgr error = [java.net.SocketTimeoutException] , url = [http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk] , id = [-904075948]
+2020-04-19 13:10:47  D/httpDns ( 2083): DownloadTaskMgr pending url = [http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk] , id = [-904075948]
+2020-04-19 13:10:47  D/httpDns ( 2083): DownloadTaskMgr started url = [http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk] , id = [-904075948]
+2020-04-19 13:10:48  D/httpDns ( 2083): --> GET http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk http/1.1
+2020-04-19 13:10:48  D/httpDns ( 2083): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; M973Q Build/LMY47I)
+2020-04-19 13:10:48  D/httpDns ( 2083): Cache-Control: no-cache
+2020-04-19 13:10:48  D/httpDns ( 2083): If-Match: "C03CC1851D9A086FF2D0BD46D869CBD7-113"
+2020-04-19 13:10:48  D/httpDns ( 2083): Range: bytes=0-0
+2020-04-19 13:10:48  D/httpDns ( 2083): Host: ldgame.ldmnq.com
+2020-04-19 13:10:48  D/httpDns ( 2083): Connection: Keep-Alive
+2020-04-19 13:10:48  D/httpDns ( 2083): --> END GET
+2020-04-19 13:10:48  D/httpDns ( 2083): <-- 206 Partial Content http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk (530ms)
+2020-04-19 13:10:48  D/httpDns ( 2083): Server: Tengine
+2020-04-19 13:10:48  D/httpDns ( 2083): Content-Type: application/vnd.android.package-archive
+2020-04-19 13:10:48  D/httpDns ( 2083): Content-Length: 1
+2020-04-19 13:10:48  D/httpDns ( 2083): Connection: keep-alive
+2020-04-19 13:10:48  D/httpDns ( 2083): Date: Sat, 18 Apr 2020 07:43:38 GMT
+2020-04-19 13:10:48  D/httpDns ( 2083): Cache-Control: max-age=86400
+2020-04-19 13:10:48  D/httpDns ( 2083): Expires: Sun, 19 Apr 2020 07:43:38 GMT
+2020-04-19 13:10:48  D/httpDns ( 2083): x-oss-request-id: 5E9AAFAA2F4E2B39377F5DF6
+2020-04-19 13:10:48  D/httpDns ( 2083): x-oss-cdn-auth: success
+2020-04-19 13:10:48  D/httpDns ( 2083): Accept-Ranges: bytes
+2020-04-19 13:10:48  D/httpDns ( 2083): ETag: "C03CC1851D9A086FF2D0BD46D869CBD7-113"
+2020-04-19 13:10:48  D/httpDns ( 2083): Last-Modified: Tue, 07 Apr 2020 04:15:51 GMT
+2020-04-19 13:10:48  D/httpDns ( 2083): x-oss-object-type: Multipart
+2020-04-19 13:10:48  D/httpDns ( 2083): x-oss-hash-crc64ecma: 7251870997320852098
+2020-04-19 13:10:48  D/httpDns ( 2083): x-oss-storage-class: Standard
+2020-04-19 13:10:48  D/httpDns ( 2083): x-oss-server-time: 11
+2020-04-19 13:10:48  D/httpDns ( 2083): Via: cache28.l2cn1821[0,304-0,H], cache8.l2cn1821[6,0], vcache15.cn2115[0,206-0,H], vcache17.cn2115[10,0]
+2020-04-19 13:10:48  D/httpDns ( 2083): Ali-Swift-Global-Savetime: 1586270416
+2020-04-19 13:10:48  D/httpDns ( 2083): Age: 77230
+2020-04-19 13:10:48  D/httpDns ( 2083): X-Cache: HIT TCP_MEM_HIT dirn:10:39259782
+2020-04-19 13:10:48  D/httpDns ( 2083): X-Swift-SaveTime: Sat, 18 Apr 2020 16:35:34 GMT
+2020-04-19 13:10:48  D/httpDns ( 2083): X-Swift-CacheTime: 86400
+2020-04-19 13:10:48  D/httpDns ( 2083): Content-Range: bytes 0-0/1179046552
+2020-04-19 13:10:48  D/httpDns ( 2083): Timing-Allow-Origin: *
+2020-04-19 13:10:48  D/httpDns ( 2083): EagleId: 3d821c4215872730483086626e
+2020-04-19 13:10:48  D/httpDns ( 2083): <-- END HTTP
+2020-04-19 13:10:48  D/httpDns ( 2083): DownloadTaskMgr connected url = [http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk] , id = [-904075948]
+2020-04-19 13:11:04  D/httpDns ( 2083): --> GET http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk http/1.1
+2020-04-19 13:11:04  D/httpDns ( 2083): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; M973Q Build/LMY47I)
+2020-04-19 13:11:04  D/httpDns ( 2083): Cache-Control: no-cache
+2020-04-19 13:11:04  D/httpDns ( 2083): If-Match: "C03CC1851D9A086FF2D0BD46D869CBD7-113"
+2020-04-19 13:11:04  D/httpDns ( 2083): Range: bytes=618590572-
+2020-04-19 13:11:04  D/httpDns ( 2083): Host: ldgame.ldmnq.com
+2020-04-19 13:11:04  D/httpDns ( 2083): Connection: Keep-Alive
+2020-04-19 13:11:04  D/httpDns ( 2083): --> END GET
+2020-04-19 13:11:05  D/httpDns ( 2083): <-- 206 Partial Content http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk (1475ms)
+2020-04-19 13:11:05  D/httpDns ( 2083): Server: Tengine
+2020-04-19 13:11:05  D/httpDns ( 2083): Content-Type: application/vnd.android.package-archive
+2020-04-19 13:11:05  D/httpDns ( 2083): Content-Length: 560455980
+2020-04-19 13:11:05  D/httpDns ( 2083): Connection: keep-alive
+2020-04-19 13:11:05  D/httpDns ( 2083): Date: Sat, 18 Apr 2020 07:43:38 GMT
+2020-04-19 13:11:05  D/httpDns ( 2083): Cache-Control: max-age=86400
+2020-04-19 13:11:05  D/httpDns ( 2083): Expires: Sun, 19 Apr 2020 07:43:38 GMT
+2020-04-19 13:11:05  D/httpDns ( 2083): x-oss-request-id: 5E9AAFAA2F4E2B39377F5DF6
+2020-04-19 13:11:05  D/httpDns ( 2083): x-oss-cdn-auth: success
+2020-04-19 13:11:05  D/httpDns ( 2083): Accept-Ranges: bytes
+2020-04-19 13:11:05  D/httpDns ( 2083): ETag: "C03CC1851D9A086FF2D0BD46D869CBD7-113"
+2020-04-19 13:11:05  D/httpDns ( 2083): Last-Modified: Tue, 07 Apr 2020 04:15:51 GMT
+2020-04-19 13:11:05  D/httpDns ( 2083): x-oss-object-type: Multipart
+2020-04-19 13:11:05  D/httpDns ( 2083): x-oss-hash-crc64ecma: 7251870997320852098
+2020-04-19 13:11:05  D/httpDns ( 2083): x-oss-storage-class: Standard
+2020-04-19 13:11:05  D/httpDns ( 2083): x-oss-server-time: 11
+2020-04-19 13:11:05  D/httpDns ( 2083): Via: cache28.l2cn1821[0,304-0,H], cache8.l2cn1821[6,0], vcache15.cn2115[0,206-0,H], vcache2.cn2115[3,0]
+2020-04-19 13:11:05  D/httpDns ( 2083): Ali-Swift-Global-Savetime: 1586270416
+2020-04-19 13:11:05  D/httpDns ( 2083): Age: 77247
+2020-04-19 13:11:05  D/httpDns ( 2083): X-Cache: HIT TCP_MEM_HIT dirn:10:39259782
+2020-04-19 13:11:05  D/httpDns ( 2083): X-Swift-SaveTime: Sat, 18 Apr 2020 16:35:34 GMT
+2020-04-19 13:11:05  D/httpDns ( 2083): X-Swift-CacheTime: 86400
+2020-04-19 13:11:05  D/httpDns ( 2083): Content-Range: bytes 618590572-1179046551/1179046552
+2020-04-19 13:11:05  D/httpDns ( 2083): Timing-Allow-Origin: *
+2020-04-19 13:11:05  D/httpDns ( 2083): EagleId: 3d821c3315872730654217884e
+2020-04-19 13:11:05  D/httpDns ( 2083): <-- END HTTP
+2020-04-19 13:14:10  D/httpDns ( 2083): --> GET http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk http/1.1
+2020-04-19 13:14:10  D/httpDns ( 2083): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; M973Q Build/LMY47I)
+2020-04-19 13:14:10  D/httpDns ( 2083): Cache-Control: no-cache
+2020-04-19 13:14:10  D/httpDns ( 2083): If-Match: "C03CC1851D9A086FF2D0BD46D869CBD7-113"
+2020-04-19 13:14:10  D/httpDns ( 2083): Range: bytes=686362312-
+2020-04-19 13:14:10  D/httpDns ( 2083): Host: ldgame.ldmnq.com
+2020-04-19 13:14:10  D/httpDns ( 2083): Connection: Keep-Alive
+2020-04-19 13:14:10  D/httpDns ( 2083): --> END GET
+2020-04-19 13:14:11  D/httpDns ( 2083): <-- 206 Partial Content http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk (530ms)
+2020-04-19 13:14:11  D/httpDns ( 2083): Server: Tengine
+2020-04-19 13:14:11  D/httpDns ( 2083): Content-Type: application/vnd.android.package-archive
+2020-04-19 13:14:11  D/httpDns ( 2083): Content-Length: 492684240
+2020-04-19 13:14:11  D/httpDns ( 2083): Connection: keep-alive
+2020-04-19 13:14:11  D/httpDns ( 2083): Date: Sat, 18 Apr 2020 07:43:38 GMT
+2020-04-19 13:14:11  D/httpDns ( 2083): Cache-Control: max-age=86400
+2020-04-19 13:14:11  D/httpDns ( 2083): Expires: Sun, 19 Apr 2020 07:43:38 GMT
+2020-04-19 13:14:11  D/httpDns ( 2083): x-oss-request-id: 5E9AAFAA2F4E2B39377F5DF6
+2020-04-19 13:14:11  D/httpDns ( 2083): x-oss-cdn-auth: success
+2020-04-19 13:14:11  D/httpDns ( 2083): Accept-Ranges: bytes
+2020-04-19 13:14:11  D/httpDns ( 2083): ETag: "C03CC1851D9A086FF2D0BD46D869CBD7-113"
+2020-04-19 13:14:11  D/httpDns ( 2083): Last-Modified: Tue, 07 Apr 2020 04:15:51 GMT
+2020-04-19 13:14:11  D/httpDns ( 2083): x-oss-object-type: Multipart
+2020-04-19 13:14:11  D/httpDns ( 2083): x-oss-hash-crc64ecma: 7251870997320852098
+2020-04-19 13:14:11  D/httpDns ( 2083): x-oss-storage-class: Standard
+2020-04-19 13:14:11  D/httpDns ( 2083): x-oss-server-time: 11
+2020-04-19 13:14:11  D/httpDns ( 2083): Via: cache28.l2cn1821[0,304-0,H], cache8.l2cn1821[6,0], vcache15.cn2115[0,206-0,H], vcache7.cn2115[5,0]
+2020-04-19 13:14:11  D/httpDns ( 2083): Ali-Swift-Global-Savetime: 1586270416
+2020-04-19 13:14:11  D/httpDns ( 2083): Age: 77432
+2020-04-19 13:14:11  D/httpDns ( 2083): X-Cache: HIT TCP_MEM_HIT dirn:10:39259782
+2020-04-19 13:14:11  D/httpDns ( 2083): X-Swift-SaveTime: Sat, 18 Apr 2020 16:35:34 GMT
+2020-04-19 13:14:11  D/httpDns ( 2083): X-Swift-CacheTime: 86400
+2020-04-19 13:14:11  D/httpDns ( 2083): Content-Range: bytes 686362312-1179046551/1179046552
+2020-04-19 13:14:11  D/httpDns ( 2083): Timing-Allow-Origin: *
+2020-04-19 13:14:11  D/httpDns ( 2083): EagleId: 3d821c3815872732508028544e
+2020-04-19 13:14:11  D/httpDns ( 2083): <-- END HTTP
+2020-04-19 13:34:23  D/httpDns ( 2083): --> GET http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk http/1.1
+2020-04-19 13:34:23  D/httpDns ( 2083): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; M973Q Build/LMY47I)
+2020-04-19 13:34:23  D/httpDns ( 2083): Cache-Control: no-cache
+2020-04-19 13:34:23  D/httpDns ( 2083): If-Match: "C03CC1851D9A086FF2D0BD46D869CBD7-113"
+2020-04-19 13:34:23  D/httpDns ( 2083): Range: bytes=1124073472-
+2020-04-19 13:34:23  D/httpDns ( 2083): Host: ldgame.ldmnq.com
+2020-04-19 13:34:23  D/httpDns ( 2083): Connection: Keep-Alive
+2020-04-19 13:34:23  D/httpDns ( 2083): --> END GET
+2020-04-19 13:34:30  D/httpDns ( 2083): <-- 206 Partial Content http://ldgame.ldmnq.com/apk/bigapk/2020-4-7/mysj.apk (6600ms)
+2020-04-19 13:34:30  D/httpDns ( 2083): Server: Tengine
+2020-04-19 13:34:30  D/httpDns ( 2083): Content-Type: application/vnd.android.package-archive
+2020-04-19 13:34:30  D/httpDns ( 2083): Content-Length: 54973080
+2020-04-19 13:34:30  D/httpDns ( 2083): Connection: keep-alive
+2020-04-19 13:34:30  D/httpDns ( 2083): Date: Fri, 17 Apr 2020 16:00:36 GMT
+2020-04-19 13:34:30  D/httpDns ( 2083): Cache-Control: max-age=86400
+2020-04-19 13:34:30  D/httpDns ( 2083): Expires: Sat, 18 Apr 2020 16:00:36 GMT
+2020-04-19 13:34:30  D/httpDns ( 2083): x-oss-request-id: 5E99D2A37444FA3133656F8E
+2020-04-19 13:34:30  D/httpDns ( 2083): x-oss-cdn-auth: success
+2020-04-19 13:34:30  D/httpDns ( 2083): Accept-Ranges: bytes
+2020-04-19 13:34:30  D/httpDns ( 2083): ETag: "C03CC1851D9A086FF2D0BD46D869CBD7-113"
+2020-04-19 13:34:30  D/httpDns ( 2083): Last-Modified: Tue, 07 Apr 2020 04:15:51 GMT
+2020-04-19 13:34:30  D/httpDns ( 2083): x-oss-object-type: Multipart
+2020-04-19 13:34:30  D/httpDns ( 2083): x-oss-hash-crc64ecma: 7251870997320852098
+2020-04-19 13:34:30  D/httpDns ( 2083): x-oss-storage-class: Standard
+2020-04-19 13:34:30  D/httpDns ( 2083): x-oss-server-time: 31
+2020-04-19 13:34:30  D/httpDns ( 2083): Via: cache17.l2cn1805[0,304-0,H], cache11.l2cn1805[21,0], vcache11.cn873[0,206-0,H], vcache5.cn873[21,0]
+2020-04-19 13:34:30  D/httpDns ( 2083): Ali-Swift-Global-Savetime: 1586234204
+2020-04-19 13:34:30  D/httpDns ( 2083): Age: 135234
+2020-04-19 13:34:30  D/httpDns ( 2083): X-Cache: HIT TCP_MEM_HIT dirn:0:629058654
+2020-04-19 13:34:30  D/httpDns ( 2083): X-Swift-SaveTime: Sat, 18 Apr 2020 08:12:10 GMT
+2020-04-19 13:34:30  D/httpDns ( 2083): X-Swift-CacheTime: 86400
+2020-04-19 13:34:30  D/httpDns ( 2083): Content-Range: bytes 1124073472-1179046551/1179046552
+2020-04-19 13:34:30  D/httpDns ( 2083): Timing-Allow-Origin: *
+2020-04-19 13:34:30  D/httpDns ( 2083): EagleId: 3da4939915872744700293618e
+2020-04-19 13:34:30  D/httpDns ( 2083): <-- END HTTP
+
+
+2020-04-19 20:31:10//***********************************************************//
+2020-04-19 20:31:12  D/httpDns ( 2080): --> GET http://res.ldmnq.com/ldAppStore/splash_img.jpg http/1.1
+2020-04-19 20:31:12  D/httpDns ( 2080): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; HMA-AL00 Build/LMY47I)
+2020-04-19 20:31:12  D/httpDns ( 2080): Cache-Control: no-cache
+2020-04-19 20:31:12  D/httpDns ( 2080): Range: bytes=0-0
+2020-04-19 20:31:12  D/httpDns ( 2080): Host: res.ldmnq.com
+2020-04-19 20:31:12  D/httpDns ( 2080): Connection: Keep-Alive
+2020-04-19 20:31:12  D/httpDns ( 2080): --> END GET
+2020-04-19 20:31:13  D/httpDns ( 2080): <-- 206 Partial Content http://res.ldmnq.com/ldAppStore/splash_img.jpg (213ms)
+2020-04-19 20:31:13  D/httpDns ( 2080): Server: Tengine
+2020-04-19 20:31:13  D/httpDns ( 2080): Content-Type: image/jpeg
+2020-04-19 20:31:13  D/httpDns ( 2080): Content-Length: 1
+2020-04-19 20:31:13  D/httpDns ( 2080): Connection: keep-alive
+2020-04-19 20:31:13  D/httpDns ( 2080): Date: Sun, 19 Apr 2020 12:07:17 GMT
+2020-04-19 20:31:13  D/httpDns ( 2080): x-oss-request-id: 5E9C3EF41C4B7235373D16F9
+2020-04-19 20:31:13  D/httpDns ( 2080): x-oss-cdn-auth: success
+2020-04-19 20:31:13  D/httpDns ( 2080): Accept-Ranges: bytes
+2020-04-19 20:31:13  D/httpDns ( 2080): ETag: "EC9A2151B69DFE5F58EC5EDBCEF6A016"
+2020-04-19 20:31:13  D/httpDns ( 2080): Last-Modified: Tue, 04 Jun 2019 09:31:59 GMT
+2020-04-19 20:31:13  D/httpDns ( 2080): x-oss-object-type: Normal
+2020-04-19 20:31:13  D/httpDns ( 2080): x-oss-hash-crc64ecma: 4098007799980883483
+2020-04-19 20:31:13  D/httpDns ( 2080): x-oss-storage-class: Standard
+2020-04-19 20:31:13  D/httpDns ( 2080): Content-MD5: 7JohUbad/l9Y7F7bzvagFg==
+2020-04-19 20:31:13  D/httpDns ( 2080): x-oss-server-time: 2
+2020-04-19 20:31:13  D/httpDns ( 2080): Via: cache36.l2sg52[282,304-0,H], cache21.l2sg52[284,0], cache5.au2[0,206-0,H], cache3.au2[1,0]
+2020-04-19 20:31:13  D/httpDns ( 2080): Ali-Swift-Global-Savetime: 1586244489
+2020-04-19 20:31:13  D/httpDns ( 2080): Age: 1436
+2020-04-19 20:31:13  D/httpDns ( 2080): X-Cache: HIT TCP_MEM_HIT dirn:9:412001286
+2020-04-19 20:31:13  D/httpDns ( 2080): X-Swift-SaveTime: Sun, 19 Apr 2020 12:07:17 GMT
+2020-04-19 20:31:13  D/httpDns ( 2080): X-Swift-CacheTime: 3600
+2020-04-19 20:31:13  D/httpDns ( 2080): Content-Range: bytes 0-0/60266
+2020-04-19 20:31:13  D/httpDns ( 2080): Timing-Allow-Origin: *
+2020-04-19 20:31:13  D/httpDns ( 2080): EagleId: 2ff62a9715872994731543482e
+2020-04-19 20:31:13  D/httpDns ( 2080): <-- END HTTP
+2020-04-19 20:31:13  D/httpDns ( 2080): --> GET http://res.ldmnq.com/ldAppStore/splash_img.jpg http/1.1
+2020-04-19 20:31:13  D/httpDns ( 2080): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; HMA-AL00 Build/LMY47I)
+2020-04-19 20:31:13  D/httpDns ( 2080): Cache-Control: no-cache
+2020-04-19 20:31:13  D/httpDns ( 2080): If-Match: "EC9A2151B69DFE5F58EC5EDBCEF6A016"
+2020-04-19 20:31:13  D/httpDns ( 2080): Range: bytes=0-
+2020-04-19 20:31:13  D/httpDns ( 2080): Host: res.ldmnq.com
+2020-04-19 20:31:13  D/httpDns ( 2080): Connection: Keep-Alive
+2020-04-19 20:31:13  D/httpDns ( 2080): --> END GET
+2020-04-19 20:31:13  D/httpDns ( 2080): <-- 206 Partial Content http://res.ldmnq.com/ldAppStore/splash_img.jpg (30ms)
+2020-04-19 20:31:13  D/httpDns ( 2080): Server: Tengine
+2020-04-19 20:31:13  D/httpDns ( 2080): Content-Type: image/jpeg
+2020-04-19 20:31:13  D/httpDns ( 2080): Content-Length: 60266
+2020-04-19 20:31:13  D/httpDns ( 2080): Connection: keep-alive
+2020-04-19 20:31:13  D/httpDns ( 2080): Date: Sun, 19 Apr 2020 12:07:17 GMT
+2020-04-19 20:31:13  D/httpDns ( 2080): x-oss-request-id: 5E9C3EF41C4B7235373D16F9
+2020-04-19 20:31:13  D/httpDns ( 2080): x-oss-cdn-auth: success
+2020-04-19 20:31:13  D/httpDns ( 2080): Accept-Ranges: bytes
+2020-04-19 20:31:13  D/httpDns ( 2080): ETag: "EC9A2151B69DFE5F58EC5EDBCEF6A016"
+2020-04-19 20:31:13  D/httpDns ( 2080): Last-Modified: Tue, 04 Jun 2019 09:31:59 GMT
+2020-04-19 20:31:13  D/httpDns ( 2080): x-oss-object-type: Normal
+2020-04-19 20:31:13  D/httpDns ( 2080): x-oss-hash-crc64ecma: 4098007799980883483
+2020-04-19 20:31:13  D/httpDns ( 2080): x-oss-storage-class: Standard
+2020-04-19 20:31:13  D/httpDns ( 2080): Content-MD5: 7JohUbad/l9Y7F7bzvagFg==
+2020-04-19 20:31:13  D/httpDns ( 2080): x-oss-server-time: 2
+2020-04-19 20:31:13  D/httpDns ( 2080): Via: cache36.l2sg52[282,304-0,H], cache21.l2sg52[284,0], cache5.au2[0,206-0,H], cache8.au2[1,0]
+2020-04-19 20:31:13  D/httpDns ( 2080): Ali-Swift-Global-Savetime: 1586244489
+2020-04-19 20:31:13  D/httpDns ( 2080): Age: 1436
+2020-04-19 20:31:13  D/httpDns ( 2080): X-Cache: HIT TCP_MEM_HIT dirn:9:412001286
+2020-04-19 20:31:13  D/httpDns ( 2080): X-Swift-SaveTime: Sun, 19 Apr 2020 12:07:17 GMT
+2020-04-19 20:31:13  D/httpDns ( 2080): X-Swift-CacheTime: 3600
+2020-04-19 20:31:13  D/httpDns ( 2080): Content-Range: bytes 0-60265/60266
+2020-04-19 20:31:13  D/httpDns ( 2080): Timing-Allow-Origin: *
+2020-04-19 20:31:13  D/httpDns ( 2080): EagleId: 2ff62a9c15872994732648975e
+2020-04-19 20:31:13  D/httpDns ( 2080): <-- END HTTP
+
+
+2020-04-21 11:57:48//***********************************************************//
+2020-04-21 11:57:49  D/httpDns ( 2036): --> GET http://res.ldmnq.com/ldAppStore/splash_img.jpg http/1.1
+2020-04-21 11:57:49  D/httpDns ( 2036): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-04-21 11:57:49  D/httpDns ( 2036): Cache-Control: no-cache
+2020-04-21 11:57:49  D/httpDns ( 2036): Range: bytes=0-0
+2020-04-21 11:57:49  D/httpDns ( 2036): Host: res.ldmnq.com
+2020-04-21 11:57:49  D/httpDns ( 2036): Connection: Keep-Alive
+2020-04-21 11:57:49  D/httpDns ( 2036): --> END GET
+2020-04-21 11:57:49  D/httpDns ( 2036): <-- 206 Partial Content http://res.ldmnq.com/ldAppStore/splash_img.jpg (30ms)
+2020-04-21 11:57:49  D/httpDns ( 2036): Server: Tengine
+2020-04-21 11:57:49  D/httpDns ( 2036): Content-Type: image/jpeg
+2020-04-21 11:57:49  D/httpDns ( 2036): Content-Length: 1
+2020-04-21 11:57:49  D/httpDns ( 2036): Connection: keep-alive
+2020-04-21 11:57:49  D/httpDns ( 2036): Date: Tue, 21 Apr 2020 02:43:13 GMT
+2020-04-21 11:57:49  D/httpDns ( 2036): x-oss-request-id: 5E9E5DC190384C39305E7B5B
+2020-04-21 11:57:49  D/httpDns ( 2036): x-oss-cdn-auth: success
+2020-04-21 11:57:49  D/httpDns ( 2036): Accept-Ranges: bytes
+2020-04-21 11:57:49  D/httpDns ( 2036): ETag: "EC9A2151B69DFE5F58EC5EDBCEF6A016"
+2020-04-21 11:57:49  D/httpDns ( 2036): Last-Modified: Tue, 04 Jun 2019 09:31:59 GMT
+2020-04-21 11:57:49  D/httpDns ( 2036): x-oss-object-type: Normal
+2020-04-21 11:57:49  D/httpDns ( 2036): x-oss-hash-crc64ecma: 4098007799980883483
+2020-04-21 11:57:49  D/httpDns ( 2036): x-oss-storage-class: Standard
+2020-04-21 11:57:49  D/httpDns ( 2036): Content-MD5: 7JohUbad/l9Y7F7bzvagFg==
+2020-04-21 11:57:49  D/httpDns ( 2036): x-oss-server-time: 2
+2020-04-21 11:57:49  D/httpDns ( 2036): Via: cache31.l2hk71[0,304-0,H], cache3.l2hk71[0,0], cache5.au2[0,206-0,H], cache7.au2[2,0]
+2020-04-21 11:57:49  D/httpDns ( 2036): Ali-Swift-Global-Savetime: 1586244489
+2020-04-21 11:57:49  D/httpDns ( 2036): Age: 4476
+2020-04-21 11:57:49  D/httpDns ( 2036): X-Cache: HIT TCP_MEM_HIT dirn:11:388542587
+2020-04-21 11:57:49  D/httpDns ( 2036): X-Swift-SaveTime: Tue, 21 Apr 2020 03:23:40 GMT
+2020-04-21 11:57:49  D/httpDns ( 2036): X-Swift-CacheTime: 3600
+2020-04-21 11:57:49  D/httpDns ( 2036): Content-Range: bytes 0-0/60266
+2020-04-21 11:57:49  D/httpDns ( 2036): Timing-Allow-Origin: *
+2020-04-21 11:57:49  D/httpDns ( 2036): EagleId: 2ff62a9b15874414696642941e
+2020-04-21 11:57:49  D/httpDns ( 2036): <-- END HTTP
+2020-04-21 11:57:49  D/httpDns ( 2036): --> GET http://res.ldmnq.com/ldAppStore/splash_img.jpg http/1.1
+2020-04-21 11:57:49  D/httpDns ( 2036): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-04-21 11:57:49  D/httpDns ( 2036): Cache-Control: no-cache
+2020-04-21 11:57:49  D/httpDns ( 2036): If-Match: "EC9A2151B69DFE5F58EC5EDBCEF6A016"
+2020-04-21 11:57:49  D/httpDns ( 2036): Range: bytes=0-
+2020-04-21 11:57:49  D/httpDns ( 2036): Host: res.ldmnq.com
+2020-04-21 11:57:49  D/httpDns ( 2036): Connection: Keep-Alive
+2020-04-21 11:57:49  D/httpDns ( 2036): --> END GET
+2020-04-21 11:57:49  D/httpDns ( 2036): <-- 206 Partial Content http://res.ldmnq.com/ldAppStore/splash_img.jpg (29ms)
+2020-04-21 11:57:49  D/httpDns ( 2036): Server: Tengine
+2020-04-21 11:57:49  D/httpDns ( 2036): Content-Type: image/jpeg
+2020-04-21 11:57:49  D/httpDns ( 2036): Content-Length: 60266
+2020-04-21 11:57:49  D/httpDns ( 2036): Connection: keep-alive
+2020-04-21 11:57:49  D/httpDns ( 2036): Date: Tue, 21 Apr 2020 02:43:13 GMT
+2020-04-21 11:57:49  D/httpDns ( 2036): x-oss-request-id: 5E9E5DC190384C39305E7B5B
+2020-04-21 11:57:49  D/httpDns ( 2036): x-oss-cdn-auth: success
+2020-04-21 11:57:49  D/httpDns ( 2036): Accept-Ranges: bytes
+2020-04-21 11:57:49  D/httpDns ( 2036): ETag: "EC9A2151B69DFE5F58EC5EDBCEF6A016"
+2020-04-21 11:57:49  D/httpDns ( 2036): Last-Modified: Tue, 04 Jun 2019 09:31:59 GMT
+2020-04-21 11:57:49  D/httpDns ( 2036): x-oss-object-type: Normal
+2020-04-21 11:57:49  D/httpDns ( 2036): x-oss-hash-crc64ecma: 4098007799980883483
+2020-04-21 11:57:49  D/httpDns ( 2036): x-oss-storage-class: Standard
+2020-04-21 11:57:49  D/httpDns ( 2036): Content-MD5: 7JohUbad/l9Y7F7bzvagFg==
+2020-04-21 11:57:49  D/httpDns ( 2036): x-oss-server-time: 2
+2020-04-21 11:57:49  D/httpDns ( 2036): Via: cache31.l2hk71[0,304-0,H], cache3.l2hk71[0,0], cache5.au2[0,206-0,H], cache6.au2[1,0]
+2020-04-21 11:57:49  D/httpDns ( 2036): Ali-Swift-Global-Savetime: 1586244489
+2020-04-21 11:57:49  D/httpDns ( 2036): Age: 4476
+2020-04-21 11:57:49  D/httpDns ( 2036): X-Cache: HIT TCP_MEM_HIT dirn:11:388542587
+2020-04-21 11:57:49  D/httpDns ( 2036): X-Swift-SaveTime: Tue, 21 Apr 2020 03:23:40 GMT
+2020-04-21 11:57:49  D/httpDns ( 2036): X-Swift-CacheTime: 3600
+2020-04-21 11:57:49  D/httpDns ( 2036): Content-Range: bytes 0-60265/60266
+2020-04-21 11:57:49  D/httpDns ( 2036): Timing-Allow-Origin: *
+2020-04-21 11:57:49  D/httpDns ( 2036): EagleId: 2ff62a9a15874414697271554e
+2020-04-21 11:57:49  D/httpDns ( 2036): <-- END HTTP
+2020-04-21 11:58:02  D/httpDns ( 2036): download url = https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk
+2020-04-21 11:58:02  D/httpDns ( 2036): DownloadTaskMgr addTask url =  = [https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk] , id = [-420228171]
+2020-04-21 11:58:02  D/httpDns ( 2036): DownloadTaskMgr pending url = [https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk] , id = [-420228171]
+2020-04-21 11:58:02  D/httpDns ( 2036): DownloadTaskMgr started url = [https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk] , id = [-420228171]
+2020-04-21 11:58:06  D/httpDns ( 2036): --> GET https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk http/1.1
+2020-04-21 11:58:06  D/httpDns ( 2036): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-04-21 11:58:06  D/httpDns ( 2036): Cache-Control: no-cache
+2020-04-21 11:58:06  D/httpDns ( 2036): Range: bytes=0-0
+2020-04-21 11:58:06  D/httpDns ( 2036): Host: down.s.qq.com
+2020-04-21 11:58:06  D/httpDns ( 2036): Connection: Keep-Alive
+2020-04-21 11:58:06  D/httpDns ( 2036): --> END GET
+2020-04-21 11:58:07  D/httpDns ( 2036): <-- 302 Found https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk (444ms)
+2020-04-21 11:58:07  D/httpDns ( 2036): Date: Tue, 21 Apr 2020 03:58:05 GMT
+2020-04-21 11:58:07  D/httpDns ( 2036): Content-Type: text/plain; charset=utf-8
+2020-04-21 11:58:07  D/httpDns ( 2036): Content-Length: 142
+2020-04-21 11:58:07  D/httpDns ( 2036): Connection: keep-alive
+2020-04-21 11:58:07  D/httpDns ( 2036): Server: nginx/1.8.1
+2020-04-21 11:58:07  D/httpDns ( 2036): X-Powered-By: Express
+2020-04-21 11:58:07  D/httpDns ( 2036): Location: https://dlied5.myapp.com/myapp/1104466820/cos.release-40109/10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk
+2020-04-21 11:58:07  D/httpDns ( 2036): Vary: Accept
+2020-04-21 11:58:07  D/httpDns ( 2036): Cache-Control: max-age=300
+2020-04-21 11:58:07  D/httpDns ( 2036): Strict-Transport-Security: max-age=31536000; includeSubDomains
+2020-04-21 11:58:07  D/httpDns ( 2036): <-- END HTTP
+2020-04-21 11:58:08  D/httpDns ( 2036): --> GET https://dlied5.myapp.com/myapp/1104466820/cos.release-40109/10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk http/1.1
+2020-04-21 11:58:08  D/httpDns ( 2036): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-04-21 11:58:08  D/httpDns ( 2036): Cache-Control: no-cache
+2020-04-21 11:58:08  D/httpDns ( 2036): Range: bytes=0-0
+2020-04-21 11:58:08  D/httpDns ( 2036): Host: dlied5.myapp.com
+2020-04-21 11:58:08  D/httpDns ( 2036): Connection: Keep-Alive
+2020-04-21 11:58:08  D/httpDns ( 2036): --> END GET
+2020-04-21 11:58:08  D/httpDns ( 2036): <-- 206 Partial Content https://dlied5.myapp.com/myapp/1104466820/cos.release-40109/10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk (142ms)
+2020-04-21 11:58:08  D/httpDns ( 2036): Last-Modified: Fri, 17 Apr 2020 03:30:58 GMT
+2020-04-21 11:58:08  D/httpDns ( 2036): Etag: "b00552fe8fcd7f46211ae2d3d236a258783b2dfd"
+2020-04-21 11:58:08  D/httpDns ( 2036): Server: TencentCOS
+2020-04-21 11:58:08  D/httpDns ( 2036): Date: Fri, 17 Apr 2020 04:05:49 GMT
+2020-04-21 11:58:08  D/httpDns ( 2036): Content-Type: application/octet-stream
+2020-04-21 11:58:08  D/httpDns ( 2036): Ip: 9.69.42.81
+2020-04-21 11:58:08  D/httpDns ( 2036): x-cos-storage-class: STANDARD_IA
+2020-04-21 11:58:08  D/httpDns ( 2036): x-cos-hash-crc64ecma: 11898888115796234813
+2020-04-21 11:58:08  D/httpDns ( 2036): x-cos-object-type: normal
+2020-04-21 11:58:08  D/httpDns ( 2036): x-cos-cache: true
+2020-04-21 11:58:08  D/httpDns ( 2036): Content-Range: bytes 0-0/1958945258
+2020-04-21 11:58:08  D/httpDns ( 2036): Content-Length: 1
+2020-04-21 11:58:08  D/httpDns ( 2036): X-NWS-LOG-UUID: 17862110936462203750
+2020-04-21 11:58:08  D/httpDns ( 2036): X-NWS-UUID-VERIFY: 93a3d4aadf61e2b59b20b12c77a15b25
+2020-04-21 11:58:08  D/httpDns ( 2036): Connection: keep-alive
+2020-04-21 11:58:08  D/httpDns ( 2036): X-Cache-Lookup: Cache Hit
+2020-04-21 11:58:08  D/httpDns ( 2036): Content-disposition: attachment; filename=10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk
+2020-04-21 11:58:08  D/httpDns ( 2036): <-- END HTTP
+2020-04-21 11:58:08  D/httpDns ( 2036): --> GET https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk http/1.1
+2020-04-21 11:58:08  D/httpDns ( 2036): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-04-21 11:58:08  D/httpDns ( 2036): Cache-Control: no-cache
+2020-04-21 11:58:08  D/httpDns ( 2036): If-Match: "b00552fe8fcd7f46211ae2d3d236a258783b2dfd"
+2020-04-21 11:58:08  D/httpDns ( 2036): Range: bytes=0-
+2020-04-21 11:58:08  D/httpDns ( 2036): Host: down.s.qq.com
+2020-04-21 11:58:08  D/httpDns ( 2036): Connection: Keep-Alive
+2020-04-21 11:58:08  D/httpDns ( 2036): --> END GET
+2020-04-21 11:58:08  D/httpDns ( 2036): DownloadTaskMgr connected url = [https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk] , id = [-420228171]
+2020-04-21 11:58:08  D/httpDns ( 2036): <-- 302 Found https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk (448ms)
+2020-04-21 11:58:08  D/httpDns ( 2036): Date: Tue, 21 Apr 2020 03:58:07 GMT
+2020-04-21 11:58:08  D/httpDns ( 2036): Content-Type: text/plain; charset=utf-8
+2020-04-21 11:58:08  D/httpDns ( 2036): Content-Length: 142
+2020-04-21 11:58:08  D/httpDns ( 2036): Connection: keep-alive
+2020-04-21 11:58:08  D/httpDns ( 2036): Server: nginx/1.8.1
+2020-04-21 11:58:08  D/httpDns ( 2036): X-Powered-By: Express
+2020-04-21 11:58:08  D/httpDns ( 2036): Location: https://dlied5.myapp.com/myapp/1104466820/cos.release-40109/10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk
+2020-04-21 11:58:08  D/httpDns ( 2036): Vary: Accept
+2020-04-21 11:58:08  D/httpDns ( 2036): Cache-Control: max-age=300
+2020-04-21 11:58:08  D/httpDns ( 2036): Strict-Transport-Security: max-age=31536000; includeSubDomains
+2020-04-21 11:58:08  D/httpDns ( 2036): <-- END HTTP
+2020-04-21 11:58:09  D/httpDns ( 2036): --> GET https://dlied5.myapp.com/myapp/1104466820/cos.release-40109/10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk http/1.1
+2020-04-21 11:58:09  D/httpDns ( 2036): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-04-21 11:58:09  D/httpDns ( 2036): Cache-Control: no-cache
+2020-04-21 11:58:09  D/httpDns ( 2036): If-Match: "b00552fe8fcd7f46211ae2d3d236a258783b2dfd"
+2020-04-21 11:58:09  D/httpDns ( 2036): Range: bytes=0-
+2020-04-21 11:58:09  D/httpDns ( 2036): Host: dlied5.myapp.com
+2020-04-21 11:58:09  D/httpDns ( 2036): Connection: Keep-Alive
+2020-04-21 11:58:09  D/httpDns ( 2036): --> END GET
+2020-04-21 11:58:09  D/httpDns ( 2036): <-- 206 Partial Content https://dlied5.myapp.com/myapp/1104466820/cos.release-40109/10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk (142ms)
+2020-04-21 11:58:09  D/httpDns ( 2036): Last-Modified: Fri, 17 Apr 2020 03:30:58 GMT
+2020-04-21 11:58:09  D/httpDns ( 2036): Etag: "b00552fe8fcd7f46211ae2d3d236a258783b2dfd"
+2020-04-21 11:58:09  D/httpDns ( 2036): Server: TencentCOS
+2020-04-21 11:58:09  D/httpDns ( 2036): Date: Fri, 17 Apr 2020 04:05:49 GMT
+2020-04-21 11:58:09  D/httpDns ( 2036): Content-Type: application/octet-stream
+2020-04-21 11:58:09  D/httpDns ( 2036): Ip: 9.69.42.81
+2020-04-21 11:58:09  D/httpDns ( 2036): x-cos-storage-class: STANDARD_IA
+2020-04-21 11:58:09  D/httpDns ( 2036): x-cos-hash-crc64ecma: 11898888115796234813
+2020-04-21 11:58:09  D/httpDns ( 2036): x-cos-object-type: normal
+2020-04-21 11:58:09  D/httpDns ( 2036): x-cos-cache: true
+2020-04-21 11:58:09  D/httpDns ( 2036): Content-Range: bytes 0-1958945257/1958945258
+2020-04-21 11:58:09  D/httpDns ( 2036): Content-Length: 1958945258
+2020-04-21 11:58:09  D/httpDns ( 2036): X-NWS-LOG-UUID: 16023957972212446930
+2020-04-21 11:58:09  D/httpDns ( 2036): X-NWS-UUID-VERIFY: 3a4d8543d5c4397fe4ebfa0e9017b568
+2020-04-21 11:58:09  D/httpDns ( 2036): Connection: keep-alive
+2020-04-21 11:58:09  D/httpDns ( 2036): X-Cache-Lookup: Cache Hit
+2020-04-21 11:58:09  D/httpDns ( 2036): Content-disposition: attachment; filename=10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk
+2020-04-21 11:58:09  D/httpDns ( 2036): <-- END HTTP
+
+
+2020-05-01 12:35:08//***********************************************************//
+2020-05-01 12:35:08  D/httpDns ( 2076): download url = https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk
+2020-05-01 12:35:08  D/httpDns ( 2076): DownloadTaskMgr addTask url =  = [https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk] , id = [-420228171]
+2020-05-01 12:35:08  D/httpDns ( 2076): DownloadTaskMgr pending url = [https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk] , id = [-420228171]
+2020-05-01 12:35:08  D/httpDns ( 2076): DownloadTaskMgr started url = [https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk] , id = [-420228171]
+2020-05-01 12:35:13  D/httpDns ( 2076): --> GET https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk http/1.1
+2020-05-01 12:35:13  D/httpDns ( 2076): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-05-01 12:35:13  D/httpDns ( 2076): Cache-Control: no-cache
+2020-05-01 12:35:13  D/httpDns ( 2076): If-Match: "b00552fe8fcd7f46211ae2d3d236a258783b2dfd"
+2020-05-01 12:35:13  D/httpDns ( 2076): Range: bytes=0-0
+2020-05-01 12:35:13  D/httpDns ( 2076): Host: down.s.qq.com
+2020-05-01 12:35:13  D/httpDns ( 2076): Connection: Keep-Alive
+2020-05-01 12:35:13  D/httpDns ( 2076): --> END GET
+2020-05-01 12:35:13  D/httpDns ( 2076): <-- 302 Found https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk (411ms)
+2020-05-01 12:35:13  D/httpDns ( 2076): Date: Fri, 01 May 2020 04:35:13 GMT
+2020-05-01 12:35:13  D/httpDns ( 2076): Content-Type: text/plain; charset=utf-8
+2020-05-01 12:35:13  D/httpDns ( 2076): Content-Length: 142
+2020-05-01 12:35:13  D/httpDns ( 2076): Connection: keep-alive
+2020-05-01 12:35:13  D/httpDns ( 2076): Server: nginx/1.8.1
+2020-05-01 12:35:13  D/httpDns ( 2076): X-Powered-By: Express
+2020-05-01 12:35:13  D/httpDns ( 2076): Location: https://dlied5.myapp.com/myapp/1104466820/cos.release-40109/10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk
+2020-05-01 12:35:13  D/httpDns ( 2076): Vary: Accept
+2020-05-01 12:35:13  D/httpDns ( 2076): Cache-Control: max-age=300
+2020-05-01 12:35:13  D/httpDns ( 2076): Strict-Transport-Security: max-age=31536000; includeSubDomains
+2020-05-01 12:35:13  D/httpDns ( 2076): <-- END HTTP
+2020-05-01 12:35:14  D/httpDns ( 2076): --> GET https://dlied5.myapp.com/myapp/1104466820/cos.release-40109/10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk http/1.1
+2020-05-01 12:35:14  D/httpDns ( 2076): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-05-01 12:35:14  D/httpDns ( 2076): Cache-Control: no-cache
+2020-05-01 12:35:14  D/httpDns ( 2076): If-Match: "b00552fe8fcd7f46211ae2d3d236a258783b2dfd"
+2020-05-01 12:35:14  D/httpDns ( 2076): Range: bytes=0-0
+2020-05-01 12:35:14  D/httpDns ( 2076): Host: dlied5.myapp.com
+2020-05-01 12:35:14  D/httpDns ( 2076): Connection: Keep-Alive
+2020-05-01 12:35:14  D/httpDns ( 2076): --> END GET
+2020-05-01 12:35:14  D/httpDns ( 2076): <-- 206 Partial Content https://dlied5.myapp.com/myapp/1104466820/cos.release-40109/10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk (143ms)
+2020-05-01 12:35:14  D/httpDns ( 2076): Last-Modified: Fri, 17 Apr 2020 03:30:58 GMT
+2020-05-01 12:35:14  D/httpDns ( 2076): Server: nws_oc_mid
+2020-05-01 12:35:14  D/httpDns ( 2076): Date: Fri, 17 Apr 2020 06:15:45 GMT
+2020-05-01 12:35:14  D/httpDns ( 2076): Cache-Control: max-age=600
+2020-05-01 12:35:14  D/httpDns ( 2076): Expires: Fri, 17 Apr 2020 06:25:45 GMT
+2020-05-01 12:35:14  D/httpDns ( 2076): Content-Type: application/octet-stream
+2020-05-01 12:35:14  D/httpDns ( 2076): Content-Range: bytes 0-0/1958945258
+2020-05-01 12:35:14  D/httpDns ( 2076): Content-Length: 1
+2020-05-01 12:35:14  D/httpDns ( 2076): X-NWS-LOG-UUID: 13873999850238811918
+2020-05-01 12:35:14  D/httpDns ( 2076): X-NWS-UUID-VERIFY: b10f73fe54f0dbf0f8bd692a7448e70d
+2020-05-01 12:35:14  D/httpDns ( 2076): Connection: keep-alive
+2020-05-01 12:35:14  D/httpDns ( 2076): X-Cache-Lookup: Cache Hit
+2020-05-01 12:35:14  D/httpDns ( 2076): Content-disposition: attachment; filename=10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk
+2020-05-01 12:35:14  D/httpDns ( 2076): <-- END HTTP
+2020-05-01 12:35:14  D/httpDns ( 2076): --> GET https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk http/1.1
+2020-05-01 12:35:14  D/httpDns ( 2076): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-05-01 12:35:14  D/httpDns ( 2076): Cache-Control: no-cache
+2020-05-01 12:35:14  D/httpDns ( 2076): Range: bytes=0-0
+2020-05-01 12:35:14  D/httpDns ( 2076): Host: down.s.qq.com
+2020-05-01 12:35:14  D/httpDns ( 2076): Connection: Keep-Alive
+2020-05-01 12:35:14  D/httpDns ( 2076): --> END GET
+2020-05-01 12:35:14  D/httpDns ( 2076): <-- 302 Found https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk (391ms)
+2020-05-01 12:35:14  D/httpDns ( 2076): Date: Fri, 01 May 2020 04:35:14 GMT
+2020-05-01 12:35:14  D/httpDns ( 2076): Content-Type: text/plain; charset=utf-8
+2020-05-01 12:35:14  D/httpDns ( 2076): Content-Length: 142
+2020-05-01 12:35:14  D/httpDns ( 2076): Connection: keep-alive
+2020-05-01 12:35:14  D/httpDns ( 2076): Server: nginx/1.8.1
+2020-05-01 12:35:14  D/httpDns ( 2076): X-Powered-By: Express
+2020-05-01 12:35:14  D/httpDns ( 2076): Location: https://dlied5.myapp.com/myapp/1104466820/cos.release-40109/10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk
+2020-05-01 12:35:14  D/httpDns ( 2076): Vary: Accept
+2020-05-01 12:35:14  D/httpDns ( 2076): Cache-Control: max-age=300
+2020-05-01 12:35:14  D/httpDns ( 2076): Strict-Transport-Security: max-age=31536000; includeSubDomains
+2020-05-01 12:35:14  D/httpDns ( 2076): <-- END HTTP
+2020-05-01 12:35:14  D/httpDns ( 2076): --> GET https://dlied5.myapp.com/myapp/1104466820/cos.release-40109/10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk http/1.1
+2020-05-01 12:35:14  D/httpDns ( 2076): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-05-01 12:35:14  D/httpDns ( 2076): Cache-Control: no-cache
+2020-05-01 12:35:14  D/httpDns ( 2076): Range: bytes=0-0
+2020-05-01 12:35:14  D/httpDns ( 2076): Host: dlied5.myapp.com
+2020-05-01 12:35:14  D/httpDns ( 2076): Connection: Keep-Alive
+2020-05-01 12:35:14  D/httpDns ( 2076): --> END GET
+2020-05-01 12:35:15  D/httpDns ( 2076): <-- 206 Partial Content https://dlied5.myapp.com/myapp/1104466820/cos.release-40109/10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk (141ms)
+2020-05-01 12:35:15  D/httpDns ( 2076): Last-Modified: Fri, 17 Apr 2020 03:30:58 GMT
+2020-05-01 12:35:15  D/httpDns ( 2076): Server: nws_oc_mid
+2020-05-01 12:35:15  D/httpDns ( 2076): Date: Fri, 17 Apr 2020 06:15:45 GMT
+2020-05-01 12:35:15  D/httpDns ( 2076): Cache-Control: max-age=600
+2020-05-01 12:35:15  D/httpDns ( 2076): Expires: Fri, 17 Apr 2020 06:25:45 GMT
+2020-05-01 12:35:15  D/httpDns ( 2076): Content-Type: application/octet-stream
+2020-05-01 12:35:15  D/httpDns ( 2076): Content-Range: bytes 0-0/1958945258
+2020-05-01 12:35:15  D/httpDns ( 2076): Content-Length: 1
+2020-05-01 12:35:15  D/httpDns ( 2076): X-NWS-LOG-UUID: 10040422762163342023
+2020-05-01 12:35:15  D/httpDns ( 2076): X-NWS-UUID-VERIFY: b10f73fe54f0dbf0f8bd692a7448e70d
+2020-05-01 12:35:15  D/httpDns ( 2076): Connection: keep-alive
+2020-05-01 12:35:15  D/httpDns ( 2076): X-Cache-Lookup: Cache Hit
+2020-05-01 12:35:15  D/httpDns ( 2076): Content-disposition: attachment; filename=10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk
+2020-05-01 12:35:15  D/httpDns ( 2076): <-- END HTTP
+2020-05-01 12:35:15  D/httpDns ( 2076): --> GET https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk http/1.1
+2020-05-01 12:35:15  D/httpDns ( 2076): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-05-01 12:35:15  D/httpDns ( 2076): Cache-Control: no-cache
+2020-05-01 12:35:15  D/httpDns ( 2076): Range: bytes=0-
+2020-05-01 12:35:15  D/httpDns ( 2076): Host: down.s.qq.com
+2020-05-01 12:35:15  D/httpDns ( 2076): Connection: Keep-Alive
+2020-05-01 12:35:15  D/httpDns ( 2076): --> END GET
+2020-05-01 12:35:15  D/httpDns ( 2076): DownloadTaskMgr connected url = [https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk] , id = [-420228171]
+2020-05-01 12:35:15  D/httpDns ( 2076): <-- 302 Found https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk (415ms)
+2020-05-01 12:35:15  D/httpDns ( 2076): Date: Fri, 01 May 2020 04:35:15 GMT
+2020-05-01 12:35:15  D/httpDns ( 2076): Content-Type: text/plain; charset=utf-8
+2020-05-01 12:35:15  D/httpDns ( 2076): Content-Length: 142
+2020-05-01 12:35:15  D/httpDns ( 2076): Connection: keep-alive
+2020-05-01 12:35:15  D/httpDns ( 2076): Server: nginx/1.8.1
+2020-05-01 12:35:15  D/httpDns ( 2076): X-Powered-By: Express
+2020-05-01 12:35:15  D/httpDns ( 2076): Location: https://dlied5.myapp.com/myapp/1104466820/cos.release-40109/10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk
+2020-05-01 12:35:15  D/httpDns ( 2076): Vary: Accept
+2020-05-01 12:35:15  D/httpDns ( 2076): Cache-Control: max-age=300
+2020-05-01 12:35:15  D/httpDns ( 2076): Strict-Transport-Security: max-age=31536000; includeSubDomains
+2020-05-01 12:35:15  D/httpDns ( 2076): <-- END HTTP
+2020-05-01 12:35:15  D/httpDns ( 2076): --> GET https://dlied5.myapp.com/myapp/1104466820/cos.release-40109/10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk http/1.1
+2020-05-01 12:35:15  D/httpDns ( 2076): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-05-01 12:35:15  D/httpDns ( 2076): Cache-Control: no-cache
+2020-05-01 12:35:15  D/httpDns ( 2076): Range: bytes=0-
+2020-05-01 12:35:15  D/httpDns ( 2076): Host: dlied5.myapp.com
+2020-05-01 12:35:15  D/httpDns ( 2076): Connection: Keep-Alive
+2020-05-01 12:35:15  D/httpDns ( 2076): --> END GET
+2020-05-01 12:35:15  D/httpDns ( 2076): <-- 206 Partial Content https://dlied5.myapp.com/myapp/1104466820/cos.release-40109/10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk (143ms)
+2020-05-01 12:35:15  D/httpDns ( 2076): Last-Modified: Fri, 17 Apr 2020 03:30:58 GMT
+2020-05-01 12:35:15  D/httpDns ( 2076): Server: nws_oc_mid
+2020-05-01 12:35:15  D/httpDns ( 2076): Date: Fri, 17 Apr 2020 06:15:45 GMT
+2020-05-01 12:35:15  D/httpDns ( 2076): Cache-Control: max-age=600
+2020-05-01 12:35:15  D/httpDns ( 2076): Expires: Fri, 17 Apr 2020 06:25:45 GMT
+2020-05-01 12:35:15  D/httpDns ( 2076): Content-Type: application/octet-stream
+2020-05-01 12:35:15  D/httpDns ( 2076): Content-Range: bytes 0-1958945257/1958945258
+2020-05-01 12:35:15  D/httpDns ( 2076): Content-Length: 1958945258
+2020-05-01 12:35:15  D/httpDns ( 2076): X-NWS-LOG-UUID: 4323566203473114894
+2020-05-01 12:35:15  D/httpDns ( 2076): X-NWS-UUID-VERIFY: a179d9d2aec20d4eee2a7e1cedc06f8b
+2020-05-01 12:35:15  D/httpDns ( 2076): Connection: keep-alive
+2020-05-01 12:35:15  D/httpDns ( 2076): X-Cache-Lookup: Cache Hit
+2020-05-01 12:35:15  D/httpDns ( 2076): Content-disposition: attachment; filename=10005121_com.tencent.tmgp.sgame_u405661_1.53.1.10_ehcy4f.apk
+2020-05-01 12:35:15  D/httpDns ( 2076): <-- END HTTP
+2020-05-01 12:36:10  D/httpDns ( 2076): download url = https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk
+2020-05-01 12:36:10  D/httpDns ( 2076): DownloadTaskMgr addTask url =  = [https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk] , id = [-666741499]
+2020-05-01 12:36:10  D/httpDns ( 2076): --> GET https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk http/1.1
+2020-05-01 12:36:10  D/httpDns ( 2076): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-05-01 12:36:10  D/httpDns ( 2076): Cache-Control: no-cache
+2020-05-01 12:36:10  D/httpDns ( 2076): Range: bytes=0-0
+2020-05-01 12:36:10  D/httpDns ( 2076): Host: down.s.qq.com
+2020-05-01 12:36:10  D/httpDns ( 2076): Connection: Keep-Alive
+2020-05-01 12:36:10  D/httpDns ( 2076): --> END GET
+2020-05-01 12:36:10  D/httpDns ( 2076): DownloadTaskMgr pending url = [https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk] , id = [-666741499]
+2020-05-01 12:36:10  D/httpDns ( 2076): DownloadTaskMgr started url = [https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk] , id = [-666741499]
+2020-05-01 12:36:11  D/httpDns ( 2076): <-- 302 Found https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk (378ms)
+2020-05-01 12:36:11  D/httpDns ( 2076): Date: Fri, 01 May 2020 04:36:11 GMT
+2020-05-01 12:36:11  D/httpDns ( 2076): Content-Type: text/plain; charset=utf-8
+2020-05-01 12:36:11  D/httpDns ( 2076): Content-Length: 137
+2020-05-01 12:36:11  D/httpDns ( 2076): Connection: keep-alive
+2020-05-01 12:36:11  D/httpDns ( 2076): Server: nginx/1.8.1
+2020-05-01 12:36:11  D/httpDns ( 2076): X-Powered-By: Express
+2020-05-01 12:36:11  D/httpDns ( 2076): Location: https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk
+2020-05-01 12:36:11  D/httpDns ( 2076): Vary: Accept
+2020-05-01 12:36:11  D/httpDns ( 2076): Cache-Control: max-age=300
+2020-05-01 12:36:11  D/httpDns ( 2076): Strict-Transport-Security: max-age=31536000; includeSubDomains
+2020-05-01 12:36:11  D/httpDns ( 2076): <-- END HTTP
+2020-05-01 12:36:11  D/httpDns ( 2076): --> GET https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk http/1.1
+2020-05-01 12:36:11  D/httpDns ( 2076): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-05-01 12:36:11  D/httpDns ( 2076): Cache-Control: no-cache
+2020-05-01 12:36:11  D/httpDns ( 2076): Range: bytes=0-0
+2020-05-01 12:36:11  D/httpDns ( 2076): Host: dlied5.myapp.com
+2020-05-01 12:36:11  D/httpDns ( 2076): Connection: Keep-Alive
+2020-05-01 12:36:11  D/httpDns ( 2076): --> END GET
+2020-05-01 12:36:11  D/httpDns ( 2076): <-- 206 Partial Content https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk (146ms)
+2020-05-01 12:36:11  D/httpDns ( 2076): Last-Modified: Mon, 30 Mar 2020 08:27:17 GMT
+2020-05-01 12:36:11  D/httpDns ( 2076): Etag: "b3aa854e2e3db53a633b4659e6e5b54c13cd0bbc"
+2020-05-01 12:36:11  D/httpDns ( 2076): Server: TencentCOS
+2020-05-01 12:36:11  D/httpDns ( 2076): Date: Wed, 01 Apr 2020 01:39:12 GMT
+2020-05-01 12:36:11  D/httpDns ( 2076): Content-Type: application/octet-stream
+2020-05-01 12:36:11  D/httpDns ( 2076): Ip: 9.97.168.229
+2020-05-01 12:36:11  D/httpDns ( 2076): x-cos-storage-class: STANDARD_IA
+2020-05-01 12:36:11  D/httpDns ( 2076): x-cos-object-type: normal
+2020-05-01 12:36:11  D/httpDns ( 2076): x-cos-cache: true
+2020-05-01 12:36:11  D/httpDns ( 2076): Content-Range: bytes 0-0/1983632937
+2020-05-01 12:36:11  D/httpDns ( 2076): Content-Length: 1
+2020-05-01 12:36:11  D/httpDns ( 2076): X-NWS-LOG-UUID: 2075972348239718555
+2020-05-01 12:36:11  D/httpDns ( 2076): X-NWS-UUID-VERIFY: b10f73fe54f0dbf0f8bd692a7448e70d
+2020-05-01 12:36:11  D/httpDns ( 2076): Connection: keep-alive
+2020-05-01 12:36:11  D/httpDns ( 2076): X-Cache-Lookup: Cache Hit
+2020-05-01 12:36:11  D/httpDns ( 2076): Content-disposition: attachment; filename=10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk
+2020-05-01 12:36:11  D/httpDns ( 2076): <-- END HTTP
+2020-05-01 12:36:11  D/httpDns ( 2076): --> GET https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk http/1.1
+2020-05-01 12:36:11  D/httpDns ( 2076): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-05-01 12:36:11  D/httpDns ( 2076): Cache-Control: no-cache
+2020-05-01 12:36:11  D/httpDns ( 2076): If-Match: "b3aa854e2e3db53a633b4659e6e5b54c13cd0bbc"
+2020-05-01 12:36:11  D/httpDns ( 2076): Range: bytes=0-
+2020-05-01 12:36:11  D/httpDns ( 2076): Host: down.s.qq.com
+2020-05-01 12:36:11  D/httpDns ( 2076): Connection: Keep-Alive
+2020-05-01 12:36:11  D/httpDns ( 2076): --> END GET
+2020-05-01 12:36:11  D/httpDns ( 2076): DownloadTaskMgr connected url = [https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk] , id = [-666741499]
+2020-05-01 12:36:12  D/httpDns ( 2076): <-- 302 Found https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk (399ms)
+2020-05-01 12:36:12  D/httpDns ( 2076): Date: Fri, 01 May 2020 04:36:12 GMT
+2020-05-01 12:36:12  D/httpDns ( 2076): Content-Type: text/plain; charset=utf-8
+2020-05-01 12:36:12  D/httpDns ( 2076): Content-Length: 137
+2020-05-01 12:36:12  D/httpDns ( 2076): Connection: keep-alive
+2020-05-01 12:36:12  D/httpDns ( 2076): Server: nginx/1.8.1
+2020-05-01 12:36:12  D/httpDns ( 2076): X-Powered-By: Express
+2020-05-01 12:36:12  D/httpDns ( 2076): Location: https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk
+2020-05-01 12:36:12  D/httpDns ( 2076): Vary: Accept
+2020-05-01 12:36:12  D/httpDns ( 2076): Cache-Control: max-age=300
+2020-05-01 12:36:12  D/httpDns ( 2076): Strict-Transport-Security: max-age=31536000; includeSubDomains
+2020-05-01 12:36:12  D/httpDns ( 2076): <-- END HTTP
+2020-05-01 12:36:12  D/httpDns ( 2076): --> GET https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk http/1.1
+2020-05-01 12:36:12  D/httpDns ( 2076): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-05-01 12:36:12  D/httpDns ( 2076): Cache-Control: no-cache
+2020-05-01 12:36:12  D/httpDns ( 2076): If-Match: "b3aa854e2e3db53a633b4659e6e5b54c13cd0bbc"
+2020-05-01 12:36:12  D/httpDns ( 2076): Range: bytes=0-
+2020-05-01 12:36:12  D/httpDns ( 2076): Host: dlied5.myapp.com
+2020-05-01 12:36:12  D/httpDns ( 2076): Connection: Keep-Alive
+2020-05-01 12:36:12  D/httpDns ( 2076): --> END GET
+2020-05-01 12:36:12  D/httpDns ( 2076): <-- 206 Partial Content https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk (144ms)
+2020-05-01 12:36:12  D/httpDns ( 2076): Last-Modified: Mon, 30 Mar 2020 08:27:17 GMT
+2020-05-01 12:36:12  D/httpDns ( 2076): Etag: "b3aa854e2e3db53a633b4659e6e5b54c13cd0bbc"
+2020-05-01 12:36:12  D/httpDns ( 2076): Server: TencentCOS
+2020-05-01 12:36:12  D/httpDns ( 2076): Date: Wed, 01 Apr 2020 01:39:12 GMT
+2020-05-01 12:36:12  D/httpDns ( 2076): Content-Type: application/octet-stream
+2020-05-01 12:36:12  D/httpDns ( 2076): Ip: 9.97.168.229
+2020-05-01 12:36:12  D/httpDns ( 2076): x-cos-storage-class: STANDARD_IA
+2020-05-01 12:36:12  D/httpDns ( 2076): x-cos-object-type: normal
+2020-05-01 12:36:12  D/httpDns ( 2076): x-cos-cache: true
+2020-05-01 12:36:12  D/httpDns ( 2076): Content-Range: bytes 0-1983632936/1983632937
+2020-05-01 12:36:12  D/httpDns ( 2076): Content-Length: 1983632937
+2020-05-01 12:36:12  D/httpDns ( 2076): X-NWS-LOG-UUID: 143011092401355242
+2020-05-01 12:36:12  D/httpDns ( 2076): X-NWS-UUID-VERIFY: 3fdcd8d0e0e02e6ffd2627ddab06dcbb
+2020-05-01 12:36:12  D/httpDns ( 2076): Connection: keep-alive
+2020-05-01 12:36:12  D/httpDns ( 2076): X-Cache-Lookup: Cache Hit
+2020-05-01 12:36:12  D/httpDns ( 2076): Content-disposition: attachment; filename=10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk
+2020-05-01 12:36:12  D/httpDns ( 2076): <-- END HTTP
+2020-05-01 12:42:31  D/httpDns ( 2076): DownloadTaskMgr paused url = [https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk] , id = [-666741499]
+2020-05-01 12:42:31  D/httpDns ( 2076): DownloadTaskMgr pending url = [https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk] , id = [-666741499]
+2020-05-01 12:42:31  D/httpDns ( 2076): DownloadTaskMgr started url = [https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk] , id = [-666741499]
+2020-05-01 12:42:32  D/httpDns ( 2076): --> GET https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk http/1.1
+2020-05-01 12:42:32  D/httpDns ( 2076): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-05-01 12:42:32  D/httpDns ( 2076): Cache-Control: no-cache
+2020-05-01 12:42:32  D/httpDns ( 2076): If-Match: "b3aa854e2e3db53a633b4659e6e5b54c13cd0bbc"
+2020-05-01 12:42:32  D/httpDns ( 2076): Range: bytes=0-0
+2020-05-01 12:42:32  D/httpDns ( 2076): Host: down.s.qq.com
+2020-05-01 12:42:32  D/httpDns ( 2076): Connection: Keep-Alive
+2020-05-01 12:42:32  D/httpDns ( 2076): --> END GET
+2020-05-01 12:42:33  D/httpDns ( 2076): <-- 302 Found https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk (401ms)
+2020-05-01 12:42:33  D/httpDns ( 2076): Date: Fri, 01 May 2020 04:42:33 GMT
+2020-05-01 12:42:33  D/httpDns ( 2076): Content-Type: text/plain; charset=utf-8
+2020-05-01 12:42:33  D/httpDns ( 2076): Content-Length: 137
+2020-05-01 12:42:33  D/httpDns ( 2076): Connection: keep-alive
+2020-05-01 12:42:33  D/httpDns ( 2076): Server: nginx/1.8.1
+2020-05-01 12:42:33  D/httpDns ( 2076): X-Powered-By: Express
+2020-05-01 12:42:33  D/httpDns ( 2076): Location: https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk
+2020-05-01 12:42:33  D/httpDns ( 2076): Vary: Accept
+2020-05-01 12:42:33  D/httpDns ( 2076): Cache-Control: max-age=300
+2020-05-01 12:42:33  D/httpDns ( 2076): Strict-Transport-Security: max-age=31536000; includeSubDomains
+2020-05-01 12:42:33  D/httpDns ( 2076): <-- END HTTP
+2020-05-01 12:42:33  D/httpDns ( 2076): --> GET https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk http/1.1
+2020-05-01 12:42:33  D/httpDns ( 2076): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-05-01 12:42:33  D/httpDns ( 2076): Cache-Control: no-cache
+2020-05-01 12:42:33  D/httpDns ( 2076): If-Match: "b3aa854e2e3db53a633b4659e6e5b54c13cd0bbc"
+2020-05-01 12:42:33  D/httpDns ( 2076): Range: bytes=0-0
+2020-05-01 12:42:33  D/httpDns ( 2076): Host: dlied5.myapp.com
+2020-05-01 12:42:33  D/httpDns ( 2076): Connection: Keep-Alive
+2020-05-01 12:42:33  D/httpDns ( 2076): --> END GET
+2020-05-01 12:42:34  D/httpDns ( 2076): <-- 206 Partial Content https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk (157ms)
+2020-05-01 12:42:34  D/httpDns ( 2076): Last-Modified: Mon, 30 Mar 2020 08:27:17 GMT
+2020-05-01 12:42:34  D/httpDns ( 2076): Server: nws_oc_mid
+2020-05-01 12:42:34  D/httpDns ( 2076): Date: Wed, 01 Apr 2020 01:44:10 GMT
+2020-05-01 12:42:34  D/httpDns ( 2076): Cache-Control: max-age=600
+2020-05-01 12:42:34  D/httpDns ( 2076): Expires: Wed, 01 Apr 2020 01:54:10 GMT
+2020-05-01 12:42:34  D/httpDns ( 2076): Content-Type: application/octet-stream
+2020-05-01 12:42:34  D/httpDns ( 2076): Content-Range: bytes 0-0/1983632937
+2020-05-01 12:42:34  D/httpDns ( 2076): Content-Length: 1
+2020-05-01 12:42:34  D/httpDns ( 2076): X-NWS-LOG-UUID: 5217385635142359037
+2020-05-01 12:42:34  D/httpDns ( 2076): X-NWS-UUID-VERIFY: 2f9f8e4abd67c59ab1e8ddd8fa7a88c3
+2020-05-01 12:42:34  D/httpDns ( 2076): Connection: keep-alive
+2020-05-01 12:42:34  D/httpDns ( 2076): X-Cache-Lookup: Cache Hit
+2020-05-01 12:42:34  D/httpDns ( 2076): Content-disposition: attachment; filename=10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk
+2020-05-01 12:42:34  D/httpDns ( 2076): <-- END HTTP
+2020-05-01 12:42:34  D/httpDns ( 2076): --> GET https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk http/1.1
+2020-05-01 12:42:34  D/httpDns ( 2076): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-05-01 12:42:34  D/httpDns ( 2076): Cache-Control: no-cache
+2020-05-01 12:42:34  D/httpDns ( 2076): Range: bytes=0-0
+2020-05-01 12:42:34  D/httpDns ( 2076): Host: down.s.qq.com
+2020-05-01 12:42:34  D/httpDns ( 2076): Connection: Keep-Alive
+2020-05-01 12:42:34  D/httpDns ( 2076): --> END GET
+2020-05-01 12:42:34  D/httpDns ( 2076): <-- 302 Found https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk (365ms)
+2020-05-01 12:42:34  D/httpDns ( 2076): Date: Fri, 01 May 2020 04:42:34 GMT
+2020-05-01 12:42:34  D/httpDns ( 2076): Content-Type: text/plain; charset=utf-8
+2020-05-01 12:42:34  D/httpDns ( 2076): Content-Length: 137
+2020-05-01 12:42:34  D/httpDns ( 2076): Connection: keep-alive
+2020-05-01 12:42:34  D/httpDns ( 2076): Server: nginx/1.8.1
+2020-05-01 12:42:34  D/httpDns ( 2076): X-Powered-By: Express
+2020-05-01 12:42:34  D/httpDns ( 2076): Location: https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk
+2020-05-01 12:42:34  D/httpDns ( 2076): Vary: Accept
+2020-05-01 12:42:34  D/httpDns ( 2076): Cache-Control: max-age=300
+2020-05-01 12:42:34  D/httpDns ( 2076): Strict-Transport-Security: max-age=31536000; includeSubDomains
+2020-05-01 12:42:34  D/httpDns ( 2076): <-- END HTTP
+2020-05-01 12:42:34  D/httpDns ( 2076): --> GET https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk http/1.1
+2020-05-01 12:42:34  D/httpDns ( 2076): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-05-01 12:42:34  D/httpDns ( 2076): Cache-Control: no-cache
+2020-05-01 12:42:34  D/httpDns ( 2076): Range: bytes=0-0
+2020-05-01 12:42:34  D/httpDns ( 2076): Host: dlied5.myapp.com
+2020-05-01 12:42:34  D/httpDns ( 2076): Connection: Keep-Alive
+2020-05-01 12:42:34  D/httpDns ( 2076): --> END GET
+2020-05-01 12:42:34  D/httpDns ( 2076): <-- 206 Partial Content https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk (140ms)
+2020-05-01 12:42:34  D/httpDns ( 2076): Last-Modified: Mon, 30 Mar 2020 08:27:17 GMT
+2020-05-01 12:42:34  D/httpDns ( 2076): Server: nws_oc_mid
+2020-05-01 12:42:34  D/httpDns ( 2076): Date: Wed, 01 Apr 2020 01:44:10 GMT
+2020-05-01 12:42:34  D/httpDns ( 2076): Cache-Control: max-age=600
+2020-05-01 12:42:34  D/httpDns ( 2076): Expires: Wed, 01 Apr 2020 01:54:10 GMT
+2020-05-01 12:42:34  D/httpDns ( 2076): Content-Type: application/octet-stream
+2020-05-01 12:42:34  D/httpDns ( 2076): Content-Range: bytes 0-0/1983632937
+2020-05-01 12:42:34  D/httpDns ( 2076): Content-Length: 1
+2020-05-01 12:42:34  D/httpDns ( 2076): X-NWS-LOG-UUID: 12645359921907901831
+2020-05-01 12:42:34  D/httpDns ( 2076): X-NWS-UUID-VERIFY: 2f9f8e4abd67c59ab1e8ddd8fa7a88c3
+2020-05-01 12:42:34  D/httpDns ( 2076): Connection: keep-alive
+2020-05-01 12:42:34  D/httpDns ( 2076): X-Cache-Lookup: Cache Hit
+2020-05-01 12:42:34  D/httpDns ( 2076): Content-disposition: attachment; filename=10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk
+2020-05-01 12:42:34  D/httpDns ( 2076): <-- END HTTP
+2020-05-01 12:42:34  D/httpDns ( 2076): --> GET https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk http/1.1
+2020-05-01 12:42:34  D/httpDns ( 2076): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-05-01 12:42:34  D/httpDns ( 2076): Cache-Control: no-cache
+2020-05-01 12:42:34  D/httpDns ( 2076): Range: bytes=0-
+2020-05-01 12:42:34  D/httpDns ( 2076): Host: down.s.qq.com
+2020-05-01 12:42:34  D/httpDns ( 2076): Connection: Keep-Alive
+2020-05-01 12:42:34  D/httpDns ( 2076): --> END GET
+2020-05-01 12:42:34  D/httpDns ( 2076): DownloadTaskMgr connected url = [https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk] , id = [-666741499]
+2020-05-01 12:42:34  D/httpDns ( 2076): http connect connected = [https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk] , soFarBytes = [1125957632] , totalBytes = [1983632937]
+2020-05-01 12:42:35  D/httpDns ( 2076): <-- 302 Found https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk (408ms)
+2020-05-01 12:42:35  D/httpDns ( 2076): Date: Fri, 01 May 2020 04:42:35 GMT
+2020-05-01 12:42:35  D/httpDns ( 2076): Content-Type: text/plain; charset=utf-8
+2020-05-01 12:42:35  D/httpDns ( 2076): Content-Length: 137
+2020-05-01 12:42:35  D/httpDns ( 2076): Connection: keep-alive
+2020-05-01 12:42:35  D/httpDns ( 2076): Server: nginx/1.8.1
+2020-05-01 12:42:35  D/httpDns ( 2076): X-Powered-By: Express
+2020-05-01 12:42:35  D/httpDns ( 2076): Location: https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk
+2020-05-01 12:42:35  D/httpDns ( 2076): Vary: Accept
+2020-05-01 12:42:35  D/httpDns ( 2076): Cache-Control: max-age=300
+2020-05-01 12:42:35  D/httpDns ( 2076): Strict-Transport-Security: max-age=31536000; includeSubDomains
+2020-05-01 12:42:35  D/httpDns ( 2076): <-- END HTTP
+2020-05-01 12:42:35  D/httpDns ( 2076): --> GET https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk http/1.1
+2020-05-01 12:42:35  D/httpDns ( 2076): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-05-01 12:42:35  D/httpDns ( 2076): Cache-Control: no-cache
+2020-05-01 12:42:35  D/httpDns ( 2076): Range: bytes=0-
+2020-05-01 12:42:35  D/httpDns ( 2076): Host: dlied5.myapp.com
+2020-05-01 12:42:35  D/httpDns ( 2076): Connection: Keep-Alive
+2020-05-01 12:42:35  D/httpDns ( 2076): --> END GET
+2020-05-01 12:42:35  D/httpDns ( 2076): <-- 206 Partial Content https://dlied5.myapp.com/myapp/1106467070/cos.release-77946/10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk (140ms)
+2020-05-01 12:42:35  D/httpDns ( 2076): Last-Modified: Mon, 30 Mar 2020 08:27:17 GMT
+2020-05-01 12:42:35  D/httpDns ( 2076): Server: nws_oc_mid
+2020-05-01 12:42:35  D/httpDns ( 2076): Date: Wed, 01 Apr 2020 01:44:10 GMT
+2020-05-01 12:42:35  D/httpDns ( 2076): Cache-Control: max-age=600
+2020-05-01 12:42:35  D/httpDns ( 2076): Expires: Wed, 01 Apr 2020 01:54:10 GMT
+2020-05-01 12:42:35  D/httpDns ( 2076): Content-Type: application/octet-stream
+2020-05-01 12:42:35  D/httpDns ( 2076): Content-Range: bytes 0-1983632936/1983632937
+2020-05-01 12:42:35  D/httpDns ( 2076): Content-Length: 1983632937
+2020-05-01 12:42:35  D/httpDns ( 2076): X-NWS-LOG-UUID: 15751844400182852588
+2020-05-01 12:42:35  D/httpDns ( 2076): X-NWS-UUID-VERIFY: c6f27fe082827cc24f6cf00ccc402d48
+2020-05-01 12:42:35  D/httpDns ( 2076): Connection: keep-alive
+2020-05-01 12:42:35  D/httpDns ( 2076): X-Cache-Lookup: Cache Hit
+2020-05-01 12:42:35  D/httpDns ( 2076): Content-disposition: attachment; filename=10005121_com.tencent.tmgp.hpjy_u400459_1.7.7_h0qbbs.apk
+2020-05-01 12:42:35  D/httpDns ( 2076): <-- END HTTP
+2020-05-01 12:42:36  D/httpDns ( 2076): DownloadTaskMgr paused url = [https://down.s.qq.com/download/1104466820/apk/10005121_com.tencent.tmgp.sgame.apk] , id = [-420228171]
+2020-05-01 12:42:38  D/httpDns ( 2076): delete file -- > deleteTaskUpdateData
+2020-05-01 12:42:40  D/httpDns ( 2076): delete file -- > deleteTaskUpdateData
+2020-05-01 12:42:40  D/httpDns ( 2076): DownloadTaskMgr paused url = [https://down.s.qq.com/download/1106467070/apk/10005121_com.tencent.tmgp.pubgmhd.apk] , id = [-666741499]
+
+
+2020-06-23 16:03:07//***********************************************************//
+2020-06-23 16:03:07  D/httpDns ( 2105): download url = https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk
+2020-06-23 16:03:07  D/httpDns ( 2105): DownloadTaskMgr addTask url =  = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 16:03:08  D/httpDns ( 2105): DownloadTaskMgr pending url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 16:03:08  D/httpDns ( 2105): http connect pending url = https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk
+2020-06-23 16:03:08  D/httpDns ( 2105): DownloadTaskMgr started url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 16:03:08  D/httpDns ( 2105): http connect started = https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk
+2020-06-23 16:03:08  D/httpDns ( 2105): --> GET https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk http/1.1
+2020-06-23 16:03:08  D/httpDns ( 2105): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-06-23 16:03:08  D/httpDns ( 2105): Cache-Control: no-cache
+2020-06-23 16:03:08  D/httpDns ( 2105): Range: bytes=0-0
+2020-06-23 16:03:08  D/httpDns ( 2105): Host: pkg.biligame.com
+2020-06-23 16:03:08  D/httpDns ( 2105): Connection: Keep-Alive
+2020-06-23 16:03:08  D/httpDns ( 2105): --> END GET
+2020-06-23 16:03:08  D/httpDns ( 2105): <-- 206 Partial Content https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk (40ms)
+2020-06-23 16:03:08  D/httpDns ( 2105): Date: Tue, 23 Jun 2020 08:03:08 GMT
+2020-06-23 16:03:08  D/httpDns ( 2105): Content-Type: application/vnd.android.package-archive
+2020-06-23 16:03:08  D/httpDns ( 2105): Content-Length: 1
+2020-06-23 16:03:08  D/httpDns ( 2105): Connection: keep-alive
+2020-06-23 16:03:08  D/httpDns ( 2105): Server: NWS_Oversea_AP
+2020-06-23 16:03:08  D/httpDns ( 2105): Cache-Control: max-age=600
+2020-06-23 16:03:08  D/httpDns ( 2105): Expires: Tue, 23 Jun 2020 08:13:08 GMT
+2020-06-23 16:03:08  D/httpDns ( 2105): Last-Modified: Thu, 18 Jun 2020 15:32:38 GMT
+2020-06-23 16:03:08  D/httpDns ( 2105): Content-Range: bytes 0-0/1507947447
+2020-06-23 16:03:08  D/httpDns ( 2105): X-NWS-LOG-UUID: 67e5c951-5a6e-4d49-ad4c-2d532037df0b
+2020-06-23 16:03:08  D/httpDns ( 2105): X-Cache-Lookup: Hit From Disktank3
+2020-06-23 16:03:08  D/httpDns ( 2105): X-NWS-UUID-VERIFY: 9cc30d4ecfcadd6f3e471122568fb9bb
+2020-06-23 16:03:08  D/httpDns ( 2105): x-cos-storage-class: STANDARD
+2020-06-23 16:03:08  D/httpDns ( 2105): x-cos-hash-crc64ecma: 15925424516095684434
+2020-06-23 16:03:08  D/httpDns ( 2105): Content-Disposition: attachment; filename*="UTF-8''gzljReDive_2.4.7_39741_20200618_033114_0955e.apk"
+2020-06-23 16:03:08  D/httpDns ( 2105): Content-Language: zh-CN
+2020-06-23 16:03:08  D/httpDns ( 2105): ETag: b4cc17d5f43ac2aae35ad068869bec26
+2020-06-23 16:03:08  D/httpDns ( 2105): x-cos-object-type: normal
+2020-06-23 16:03:08  D/httpDns ( 2105): Accept-Ranges: bytes
+2020-06-23 16:03:08  D/httpDns ( 2105): <-- END HTTP
+2020-06-23 16:03:08  D/httpDns ( 2105): DownloadTaskMgr connected url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 16:03:08  D/httpDns ( 2105): http connect connected = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , soFarBytes = [0] , totalBytes = [1507947447]
+2020-06-23 16:03:08  D/httpDns ( 2105): --> GET https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk http/1.1
+2020-06-23 16:03:08  D/httpDns ( 2105): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-06-23 16:03:08  D/httpDns ( 2105): Cache-Control: no-cache
+2020-06-23 16:03:08  D/httpDns ( 2105): If-Match: b4cc17d5f43ac2aae35ad068869bec26
+2020-06-23 16:03:08  D/httpDns ( 2105): Range: bytes=0-
+2020-06-23 16:03:08  D/httpDns ( 2105): Host: pkg.biligame.com
+2020-06-23 16:03:08  D/httpDns ( 2105): Connection: Keep-Alive
+2020-06-23 16:03:08  D/httpDns ( 2105): --> END GET
+2020-06-23 16:03:08  D/httpDns ( 2105): <-- 206 Partial Content https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk (88ms)
+2020-06-23 16:03:08  D/httpDns ( 2105): Date: Tue, 23 Jun 2020 08:03:08 GMT
+2020-06-23 16:03:08  D/httpDns ( 2105): Content-Type: application/vnd.android.package-archive
+2020-06-23 16:03:08  D/httpDns ( 2105): Content-Length: 1507947447
+2020-06-23 16:03:08  D/httpDns ( 2105): Connection: keep-alive
+2020-06-23 16:03:08  D/httpDns ( 2105): Server: NWS_Oversea_AP
+2020-06-23 16:03:08  D/httpDns ( 2105): Cache-Control: max-age=600
+2020-06-23 16:03:08  D/httpDns ( 2105): Expires: Tue, 23 Jun 2020 08:13:08 GMT
+2020-06-23 16:03:08  D/httpDns ( 2105): Last-Modified: Thu, 18 Jun 2020 15:32:38 GMT
+2020-06-23 16:03:08  D/httpDns ( 2105): Content-Range: bytes 0-1507947446/1507947447
+2020-06-23 16:03:08  D/httpDns ( 2105): X-NWS-LOG-UUID: 8a1effa2-5ced-4699-98a2-27f5e473955f
+2020-06-23 16:03:08  D/httpDns ( 2105): X-Cache-Lookup: Hit From Disktank3
+2020-06-23 16:03:08  D/httpDns ( 2105): X-NWS-UUID-VERIFY: 9cc30d4ecfcadd6f3e471122568fb9bb
+2020-06-23 16:03:08  D/httpDns ( 2105): x-cos-storage-class: STANDARD
+2020-06-23 16:03:08  D/httpDns ( 2105): x-cos-hash-crc64ecma: 15925424516095684434
+2020-06-23 16:03:08  D/httpDns ( 2105): Content-Disposition: attachment; filename*="UTF-8''gzljReDive_2.4.7_39741_20200618_033114_0955e.apk"
+2020-06-23 16:03:08  D/httpDns ( 2105): Content-Language: zh-CN
+2020-06-23 16:03:08  D/httpDns ( 2105): ETag: b4cc17d5f43ac2aae35ad068869bec26
+2020-06-23 16:03:08  D/httpDns ( 2105): x-cos-object-type: normal
+2020-06-23 16:03:08  D/httpDns ( 2105): Accept-Ranges: bytes
+2020-06-23 16:03:08  D/httpDns ( 2105): <-- END HTTP
+2020-06-23 16:07:45  D/httpDns ( 2105): DownloadTaskMgr error = [java.net.UnknownHostException: Unable to resolve host "pkg.biligame.com": No address associated with hostname] , url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 16:07:45  D/httpDns ( 2105): DownloadTaskMgr pending url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 16:07:45  D/httpDns ( 2105): http connect pending url = https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk
+2020-06-23 16:07:45  D/httpDns ( 2105): DownloadTaskMgr started url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 16:07:45  D/httpDns ( 2105): http connect started = https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk
+2020-06-23 16:07:46  D/httpDns ( 2105): DownloadTaskMgr error = [java.net.UnknownHostException: Unable to resolve host "pkg.biligame.com": No address associated with hostname] , url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 16:07:46  D/httpDns ( 2105): DownloadTaskMgr pending url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 16:07:46  D/httpDns ( 2105): http connect pending url = https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk
+2020-06-23 16:07:46  D/httpDns ( 2105): DownloadTaskMgr started url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 16:07:46  D/httpDns ( 2105): http connect started = https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk
+2020-06-23 16:07:46  D/httpDns ( 2105): DownloadTaskMgr error = [java.net.UnknownHostException: Unable to resolve host "pkg.biligame.com": No address associated with hostname] , url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 16:07:46  D/httpDns ( 2105): DownloadTaskMgr pending url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 16:07:46  D/httpDns ( 2105): http connect pending url = https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk
+2020-06-23 16:07:46  D/httpDns ( 2105): DownloadTaskMgr started url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 16:07:46  D/httpDns ( 2105): http connect started = https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk
+2020-06-23 16:07:46  D/httpDns ( 2105): DownloadTaskMgr error = [java.net.UnknownHostException: Unable to resolve host "pkg.biligame.com": No address associated with hostname] , url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 16:07:46  D/httpDns ( 2105): DownloadTaskMgr pending url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 16:07:46  D/httpDns ( 2105): http connect pending url = https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk
+2020-06-23 16:07:46  D/httpDns ( 2105): DownloadTaskMgr started url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 16:07:46  D/httpDns ( 2105): http connect started = https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk
+2020-06-23 16:07:46  D/httpDns ( 2105): DownloadTaskMgr error = [java.net.UnknownHostException: Unable to resolve host "pkg.biligame.com": No address associated with hostname] , url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 16:07:46  D/httpDns ( 2105): hostname = pkg.biligame.com
+2020-06-23 16:07:46  D/httpDns ( 2105): lookup count = 0
+2020-06-23 16:07:46  D/httpDns ( 2105): DownloadTaskMgr pending url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 16:07:46  D/httpDns ( 2105): http connect pending url = https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk
+2020-06-23 16:07:46  D/httpDns ( 2105): DownloadTaskMgr started url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 16:07:46  D/httpDns ( 2105): http connect started = https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk
+2020-06-23 16:07:47  D/httpDns ( 2105): lookup count = 1
+2020-06-23 16:07:49  D/httpDns ( 2105): lookup count = 2
+2020-06-23 16:07:52  D/httpDns ( 2105): lookup count = 3
+2020-06-23 16:07:56  D/httpDns ( 2105): Default DNS!
+2020-06-23 16:08:52  D/httpDns ( 2105): hostname = pkg.biligame.com
+2020-06-23 16:08:52  D/httpDns ( 2105): lookup count = 0
+2020-06-23 16:08:53  D/httpDns ( 2105): lookup count = 1
+2020-06-23 16:08:55  D/httpDns ( 2105): lookup count = 2
+2020-06-23 16:08:58  D/httpDns ( 2105): lookup count = 3
+2020-06-23 16:09:02  D/httpDns ( 2105): Default DNS!
+2020-06-23 16:09:58  D/httpDns ( 2105): hostname = pkg.biligame.com
+2020-06-23 16:09:58  D/httpDns ( 2105): lookup count = 0
+2020-06-23 16:09:59  D/httpDns ( 2105): lookup count = 1
+2020-06-23 16:10:01  D/httpDns ( 2105): lookup count = 2
+2020-06-23 16:10:04  D/httpDns ( 2105): lookup count = 3
+2020-06-23 16:10:08  D/httpDns ( 2105): Default DNS!
+2020-06-23 16:11:04  D/httpDns ( 2105): hostname = pkg.biligame.com
+2020-06-23 16:11:04  D/httpDns ( 2105): lookup count = 0
+2020-06-23 16:11:05  D/httpDns ( 2105): lookup count = 1
+2020-06-23 16:11:07  D/httpDns ( 2105): lookup count = 2
+2020-06-23 16:11:10  D/httpDns ( 2105): lookup count = 3
+2020-06-23 16:11:14  D/httpDns ( 2105): Default DNS!
+2020-06-23 16:12:10  D/httpDns ( 2105): DownloadTaskMgr error = [java.net.UnknownHostException: Unable to resolve host "pkg.biligame.com": No address associated with hostname] , url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 18:58:07  D/httpDns ( 2105): hostname = pkg.biligame.com
+2020-06-23 18:58:07  D/httpDns ( 2105): lookup count = 0
+2020-06-23 18:58:07  D/httpDns ( 2105): DownloadTaskMgr pending url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 18:58:07  D/httpDns ( 2105): http connect pending url = https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk
+2020-06-23 18:58:07  D/httpDns ( 2105): DownloadTaskMgr started url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+2020-06-23 18:58:07  D/httpDns ( 2105): http connect started = https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk
+2020-06-23 18:58:08  D/httpDns ( 2105): lookup count = 1
+2020-06-23 18:58:10  D/httpDns ( 2105): lookup count = 2
+2020-06-23 18:58:13  D/httpDns ( 2105): lookup count = 3
+2020-06-23 18:58:17  D/httpDns ( 2105): Default DNS!
+2020-06-23 18:59:13  D/httpDns ( 2105): hostname = pkg.biligame.com
+2020-06-23 18:59:13  D/httpDns ( 2105): lookup count = 0
+2020-06-23 18:59:14  D/httpDns ( 2105): lookup count = 1
+2020-06-23 18:59:16  D/httpDns ( 2105): lookup count = 2
+2020-06-23 18:59:19  D/httpDns ( 2105): lookup count = 3
+2020-06-23 18:59:23  D/httpDns ( 2105): Default DNS!
+2020-06-23 19:00:19  D/httpDns ( 2105): hostname = pkg.biligame.com
+2020-06-23 19:00:19  D/httpDns ( 2105): lookup count = 0
+2020-06-23 19:00:20  D/httpDns ( 2105): lookup count = 1
+2020-06-23 19:00:22  D/httpDns ( 2105): lookup count = 2
+2020-06-23 19:00:25  D/httpDns ( 2105): lookup count = 3
+2020-06-23 19:00:29  D/httpDns ( 2105): Default DNS!
+2020-06-23 19:01:25  D/httpDns ( 2105): hostname = pkg.biligame.com
+2020-06-23 19:01:25  D/httpDns ( 2105): lookup count = 0
+2020-06-23 19:01:26  D/httpDns ( 2105): lookup count = 1
+2020-06-23 19:01:28  D/httpDns ( 2105): lookup count = 2
+2020-06-23 19:01:31  D/httpDns ( 2105): lookup count = 3
+2020-06-23 19:01:35  D/httpDns ( 2105): Default DNS!
+2020-06-23 19:02:11  D/httpDns ( 2105): delete file -- > deleteTaskUpdateData
+2020-06-23 19:02:11  D/httpDns ( 2105): DownloadTaskMgr paused url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [-1448037406]
+
+
+2020-06-24 14:00:43//***********************************************************//
+2020-06-24 14:02:00  D/httpDns ( 2111): download url = https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk
+2020-06-24 14:02:00  D/httpDns ( 2111): DownloadTaskMgr addTask url =  = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [796451112]
+2020-06-24 14:02:00  D/httpDns ( 2111): DownloadTaskMgr pending url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [796451112]
+2020-06-24 14:02:00  D/httpDns ( 2111): DownloadTaskMgr started url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [796451112]
+2020-06-24 14:02:02  D/httpDns ( 2111): --> GET https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk http/1.1
+2020-06-24 14:02:02  D/httpDns ( 2111): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-06-24 14:02:02  D/httpDns ( 2111): Cache-Control: no-cache
+2020-06-24 14:02:02  D/httpDns ( 2111): Range: bytes=0-0
+2020-06-24 14:02:02  D/httpDns ( 2111): Host: pkg.biligame.com
+2020-06-24 14:02:02  D/httpDns ( 2111): Connection: Keep-Alive
+2020-06-24 14:02:02  D/httpDns ( 2111): --> END GET
+2020-06-24 14:02:02  D/httpDns ( 2111): <-- 206 Partial Content https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk (39ms)
+2020-06-24 14:02:02  D/httpDns ( 2111): Date: Wed, 24 Jun 2020 06:02:02 GMT
+2020-06-24 14:02:02  D/httpDns ( 2111): Content-Type: application/vnd.android.package-archive
+2020-06-24 14:02:02  D/httpDns ( 2111): Content-Length: 1
+2020-06-24 14:02:02  D/httpDns ( 2111): Connection: keep-alive
+2020-06-24 14:02:02  D/httpDns ( 2111): Server: NWS_Oversea_AP
+2020-06-24 14:02:02  D/httpDns ( 2111): Cache-Control: max-age=600
+2020-06-24 14:02:02  D/httpDns ( 2111): Expires: Wed, 24 Jun 2020 06:12:01 GMT
+2020-06-24 14:02:02  D/httpDns ( 2111): Last-Modified: Thu, 18 Jun 2020 15:32:38 GMT
+2020-06-24 14:02:02  D/httpDns ( 2111): Content-Range: bytes 0-0/1507947447
+2020-06-24 14:02:02  D/httpDns ( 2111): X-NWS-LOG-UUID: 4f2a78b6-1285-4ca0-9c41-3b477392c8b5
+2020-06-24 14:02:02  D/httpDns ( 2111): X-Cache-Lookup: Hit From Disktank3
+2020-06-24 14:02:02  D/httpDns ( 2111): Content-Disposition: attachment; filename*="UTF-8''gzljReDive_2.4.7_39741_20200618_033114_0955e.apk"
+2020-06-24 14:02:02  D/httpDns ( 2111): Accept-Ranges: bytes
+2020-06-24 14:02:02  D/httpDns ( 2111): <-- END HTTP
+2020-06-24 14:02:02  D/httpDns ( 2111): DownloadTaskMgr connected url = [https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk] , id = [796451112]
+2020-06-24 14:02:02  D/httpDns ( 2111): --> GET https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk http/1.1
+2020-06-24 14:02:02  D/httpDns ( 2111): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-06-24 14:02:02  D/httpDns ( 2111): Cache-Control: no-cache
+2020-06-24 14:02:02  D/httpDns ( 2111): Range: bytes=0-
+2020-06-24 14:02:02  D/httpDns ( 2111): Host: pkg.biligame.com
+2020-06-24 14:02:02  D/httpDns ( 2111): Connection: Keep-Alive
+2020-06-24 14:02:02  D/httpDns ( 2111): --> END GET
+2020-06-24 14:02:02  D/httpDns ( 2111): <-- 206 Partial Content https://pkg.biligame.com/games/gzljReDive_2.4.7_39741_20200618_033114_0955e.apk (100ms)
+2020-06-24 14:02:02  D/httpDns ( 2111): Date: Wed, 24 Jun 2020 06:02:02 GMT
+2020-06-24 14:02:02  D/httpDns ( 2111): Content-Type: application/vnd.android.package-archive
+2020-06-24 14:02:02  D/httpDns ( 2111): Content-Length: 1507947447
+2020-06-24 14:02:02  D/httpDns ( 2111): Connection: keep-alive
+2020-06-24 14:02:02  D/httpDns ( 2111): Server: NWS_Oversea_AP
+2020-06-24 14:02:02  D/httpDns ( 2111): Cache-Control: max-age=600
+2020-06-24 14:02:02  D/httpDns ( 2111): Expires: Wed, 24 Jun 2020 06:12:01 GMT
+2020-06-24 14:02:02  D/httpDns ( 2111): Last-Modified: Thu, 18 Jun 2020 15:32:38 GMT
+2020-06-24 14:02:02  D/httpDns ( 2111): Content-Range: bytes 0-1507947446/1507947447
+2020-06-24 14:02:02  D/httpDns ( 2111): X-NWS-LOG-UUID: ceb41f80-4491-4328-b15c-cffa4e3256ef
+2020-06-24 14:02:02  D/httpDns ( 2111): X-Cache-Lookup: Hit From Disktank3
+2020-06-24 14:02:02  D/httpDns ( 2111): Content-Disposition: attachment; filename*="UTF-8''gzljReDive_2.4.7_39741_20200618_033114_0955e.apk"
+2020-06-24 14:02:02  D/httpDns ( 2111): Accept-Ranges: bytes
+2020-06-24 14:02:02  D/httpDns ( 2111): <-- END HTTP
+
+
+2020-09-28 15:33:51//***********************************************************//
+2020-09-28 15:33:51  D/httpDns ( 2082): DownloadTaskMgr addTask url =  = [https://pkg.biligame.com/games/gzljReDive_v2.4.8_501502.apk] , id = [1645308365]
+2020-09-28 15:33:52  D/httpDns ( 2082): --> GET https://pkg.biligame.com/games/gzljReDive_v2.4.8_501502.apk http/1.1
+2020-09-28 15:33:52  D/httpDns ( 2082): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-09-28 15:33:52  D/httpDns ( 2082): Cache-Control: no-cache
+2020-09-28 15:33:52  D/httpDns ( 2082): Range: bytes=0-0
+2020-09-28 15:33:52  D/httpDns ( 2082): Host: pkg.biligame.com
+2020-09-28 15:33:52  D/httpDns ( 2082): Connection: Keep-Alive
+2020-09-28 15:33:52  D/httpDns ( 2082): --> END GET
+2020-09-28 15:33:52  D/httpDns ( 2082): <-- 206 Partial Content https://pkg.biligame.com/games/gzljReDive_v2.4.8_501502.apk (48ms)
+2020-09-28 15:33:52  D/httpDns ( 2082): Date: Mon, 28 Sep 2020 07:33:52 GMT
+2020-09-28 15:33:52  D/httpDns ( 2082): Content-Type: application/vnd.android.package-archive
+2020-09-28 15:33:52  D/httpDns ( 2082): Content-Length: 1
+2020-09-28 15:33:52  D/httpDns ( 2082): Connection: keep-alive
+2020-09-28 15:33:52  D/httpDns ( 2082): Server: NWS_Oversea_AP
+2020-09-28 15:33:52  D/httpDns ( 2082): Cache-Control: max-age=600
+2020-09-28 15:33:52  D/httpDns ( 2082): Expires: Mon, 28 Sep 2020 07:43:51 GMT
+2020-09-28 15:33:52  D/httpDns ( 2082): Last-Modified: Thu, 24 Sep 2020 12:42:48 GMT
+2020-09-28 15:33:52  D/httpDns ( 2082): Content-Range: bytes 0-0/1503574945
+2020-09-28 15:33:52  D/httpDns ( 2082): X-NWS-LOG-UUID: 802a1f14-f0cd-4b54-8149-504266d2e67e
+2020-09-28 15:33:52  D/httpDns ( 2082): X-Cache-Lookup: Hit From Disktank3
+2020-09-28 15:33:52  D/httpDns ( 2082): Content-Disposition: attachment; filename*="UTF-8''gzljReDive_v2.4.8_501502.apk"
+2020-09-28 15:33:52  D/httpDns ( 2082): Accept-Ranges: bytes
+2020-09-28 15:33:52  D/httpDns ( 2082): <-- END HTTP
+2020-09-28 15:33:52  D/httpDns ( 2082): --> GET https://pkg.biligame.com/games/gzljReDive_v2.4.8_501502.apk http/1.1
+2020-09-28 15:33:52  D/httpDns ( 2082): User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; ELE-AL00 Build/LMY47I)
+2020-09-28 15:33:52  D/httpDns ( 2082): Cache-Control: no-cache
+2020-09-28 15:33:52  D/httpDns ( 2082): Range: bytes=0-
+2020-09-28 15:33:52  D/httpDns ( 2082): Host: pkg.biligame.com
+2020-09-28 15:33:52  D/httpDns ( 2082): Connection: Keep-Alive
+2020-09-28 15:33:52  D/httpDns ( 2082): --> END GET
+2020-09-28 15:33:52  D/httpDns ( 2082): <-- 206 Partial Content https://pkg.biligame.com/games/gzljReDive_v2.4.8_501502.apk (91ms)
+2020-09-28 15:33:52  D/httpDns ( 2082): Date: Mon, 28 Sep 2020 07:33:52 GMT
+2020-09-28 15:33:52  D/httpDns ( 2082): Content-Type: application/vnd.android.package-archive
+2020-09-28 15:33:52  D/httpDns ( 2082): Content-Length: 1503574945
+2020-09-28 15:33:52  D/httpDns ( 2082): Connection: keep-alive
+2020-09-28 15:33:52  D/httpDns ( 2082): Server: NWS_Oversea_AP
+2020-09-28 15:33:52  D/httpDns ( 2082): Cache-Control: max-age=600
+2020-09-28 15:33:52  D/httpDns ( 2082): Expires: Mon, 28 Sep 2020 07:43:51 GMT
+2020-09-28 15:33:52  D/httpDns ( 2082): Last-Modified: Thu, 24 Sep 2020 12:42:48 GMT
+2020-09-28 15:33:52  D/httpDns ( 2082): Content-Range: bytes 0-1503574944/1503574945
+2020-09-28 15:33:52  D/httpDns ( 2082): X-NWS-LOG-UUID: 0833bdd5-6e8f-41c9-936a-5b2c4d18bd26
+2020-09-28 15:33:52  D/httpDns ( 2082): X-Cache-Lookup: Hit From Disktank3
+2020-09-28 15:33:52  D/httpDns ( 2082): Content-Disposition: attachment; filename*="UTF-8''gzljReDive_v2.4.8_501502.apk"
+2020-09-28 15:33:52  D/httpDns ( 2082): Accept-Ranges: bytes
+2020-09-28 15:33:52  D/httpDns ( 2082): <-- END HTTP
